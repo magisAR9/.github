@@ -1,3 +1,7 @@
-# .github
+# Action de recherche n°9 (Carto)graphies et (géo)visualisations de données
 
-# Actualités de l'AR9
+Ceci est le site de l'AR9 du GdRMAGIS.
+
+## Actualités de l'AR9
+
+## Travaux
