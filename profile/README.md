@@ -2,8 +2,9 @@
 
 ### 🍿 Actualités
 
-- Soumission d'une proposition de session pour le futur colloque du CIST 2023 - _Apprendre des territoires – Enseigner les territoires_. </br>
-- Des webinaires réguliers seront programmés à partir de septembre 2022
+- Soumission de la V2 d'une proposition de session _**Géovisualisation à l'heure de l'open data et du big data**_ [Accéder](https://github.com/magisAR9/CIST2023), pour le futur colloque du CIST 2023 - _Apprendre des territoires – Enseigner les territoires_. </br>
+- Des webinaires réguliers seront programmés à partir de septembre 2022. A suivre...</br>
+- Organisation d'une journée d'études à l'automne à Rennes (date précise à venir)
 
 ### 👩‍💻 Projet
 L'objectif général de cette AR est de fédérer des réflexions et des travaux scientifiques d’origines disciplinaires variées menés autour de la **(carto)graphie contemporaine au sens large et de la (géo)visualisation de données**. Pour ce faire, elle propose d’une part, de mener une veille théorique, méthodologique et technique sur les modalités de la fabrique des cartes et, d’autre part, de fédérer et d’animer une communauté de chercheurs (essentiellement géographes, géomaticiens, cartographes, informaticiens...) lors d’ateliers et de séminaires thématiques et méthodologiques.
