@@ -2,7 +2,7 @@
 
 ### 🍿 Actualités
 
-- Soumission de la V2 d'une proposition de session _**Géovisualisation à l'heure de l'open data et du big data**_ [Accéder](https://github.com/magisAR9/CIST2023), pour le futur colloque du CIST 2023 - _Apprendre des territoires – Enseigner les territoires_. </br>
+- Soumission de la V2 d'une proposition de session [_**Géovisualisation à l'heure de l'open data et du big data**_](https://github.com/magisAR9/CIST2023), pour le futur colloque du CIST 2023 - _Apprendre des territoires – Enseigner les territoires_. </br>
 - Des webinaires réguliers seront programmés à partir de septembre 2022. A suivre...</br>
 - Organisation d'une journée d'études à l'automne à Rennes (date précise à venir)
 
