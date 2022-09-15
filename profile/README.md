@@ -21,6 +21,8 @@ L'objectif général de cette AR est de fédérer des réflexions et des travaux
 -Ecrivez à [Boris](mailto:boris.mericskay@univ-rennes2.fr) et/ou à [Nicolas](mailto:nicolas.lambert@cnrs.fr) pour participer. </br>
 -Inscrivez-vous à la liste de diffusion [cartogeoviz](http://listes.ifsttar.fr/wws/info/cartogeoviz-magis) ou contactez [Françoise](mailto:francoise.bahoken@univ-eiffel.fr) en cas de besoins.
 
+> Renseignez en ligne, si possible, ce tableau collectif **[Framacalc sur les outils](https://lite.framacalc.org/v8em5nhyq3-9t7k)** que vous utilisez régulièrement.
+
 ### 🙋‍♀️ Nous contacter
 [@](mailto:robin.cura@parisgeo.cnrs.fr,francoise.bahoken@univ-eiffel.fr,anne-christine.bronner@misha.fr,etienne.come@univ-eiffel.fr,boris.mericskay@univ-rennes2.fr,nicolas.lambert@cnrs.fr) Anne-Christine, Boris, Etienne, Françoise & Nicolas. 
 
