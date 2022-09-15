@@ -1,6 +1,3 @@
-## Action de recherche (Carto)graphies et (Géo)visualisations de données du GdR MAGIS
-
-
 ![alt text](https://raw.githubusercontent.com/magisAR9/.github/main/profile/AR9.JPG)
 
 ### 🍿 Actualités
