@@ -1,5 +1,8 @@
 ## Action de recherche (Carto)graphies et (Géo)visualisations de données du GdR MAGIS
 
+
+![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/JEGEOVIZ.JPG)
+
 ### 🍿 Actualités
 
 - Organisation d'une journée d'études le 6 janvier 2023 à Rennes. A suivre ici : [JEGeovizRennes](https://github.com/magisAR9/JEGeovizRennes) </br>
