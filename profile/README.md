@@ -5,6 +5,7 @@
 - Organisation d'une journée d'études le 6 janvier 2023 à Rennes. A suivre ici : [JEGeovizRennes](https://github.com/magisAR9/JEGeovizRennes) </br>
 - Les webinaires réguliers seront programmés à partir de novembre 2022. A suivre par là : [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) </br>
 - Soumission de la V2 de la proposition de session [_**Géovisualisation à l'heure de l'open data et du big data**_](https://github.com/magisAR9/CIST2023), pour le futur colloque du CIST 2023 - _Apprendre des territoires – Enseigner les territoires_. </br>
+- Décision prise de proposer un atelier/working class au prochain colloque de SAGEO'2023 à Laval, au Québec. A suivre... </br> 
 
 
 ### 👩‍💻 Projet
@@ -17,8 +18,8 @@ L'objectif général de cette AR est de fédérer des réflexions et des travaux
 [En savoir plus...](https://github.com/magisAR9/project)
 
 ### 🌈 Participer
-Ecrivez à [Boris](mailto:boris.mericskay@univ-rennes2.fr) et/ou à [Nicolas](mailto:nicolas.lambert@cnrs.fr) pour participer. </br>
-Inscrivez-vous à la liste de diffusion [cartogeoviz](http://listes.ifsttar.fr/wws/info/cartogeoviz-magis) ou contactez [Françoise](mailto:francoise.bahoken@univ-eiffel.fr) en cas de besoins.
+-Ecrivez à [Boris](mailto:boris.mericskay@univ-rennes2.fr) et/ou à [Nicolas](mailto:nicolas.lambert@cnrs.fr) pour participer. </br>
+-Inscrivez-vous à la liste de diffusion [cartogeoviz](http://listes.ifsttar.fr/wws/info/cartogeoviz-magis) ou contactez [Françoise](mailto:francoise.bahoken@univ-eiffel.fr) en cas de besoins.
 
 ### 🙋‍♀️ Nous contacter
 [@](mailto:robin.cura@parisgeo.cnrs.fr,francoise.bahoken@univ-eiffel.fr,anne-christine.bronner@misha.fr,etienne.come@univ-eiffel.fr,boris.mericskay@univ-rennes2.fr,nicolas.lambert@cnrs.fr) Anne-Christine, Boris, Etienne, Françoise & Nicolas. 
