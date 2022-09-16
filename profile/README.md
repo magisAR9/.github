@@ -25,7 +25,7 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 > Renseignez en ligne, si possible, ce tableau collectif **[Framacalc sur les outils](https://lite.framacalc.org/v8em5nhyq3-9t7k)** que vous utilisez régulièrement.
 
 ### 🙋‍♀️ Nous contacter
-[@](mailto:robin.cura@parisgeo.cnrs.fr,francoise.bahoken@univ-eiffel.fr,anne-christine.bronner@misha.fr,etienne.come@univ-eiffel.fr,boris.mericskay@univ-rennes2.fr,nicolas.lambert@cnrs.fr) Anne-Christine, Boris, Etienne, Françoise & Nicolas. 
+[@](mailto:francoise.bahoken@univ-eiffel.fr,anne-christine.bronner@misha.fr,etienne.come@univ-eiffel.fr,robin.cura@univ-paris1.fr,nicolas.lambert@cnrs.fr,boris.mericskay@univ-rennes2.fr,) Françoise, Anne-Christine, Etienne, Robin, Nicolas & Boris. 
 
 
 <!--
