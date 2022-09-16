@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/magisAR9/.github/main/profile/AR9.JPG)
+![alt text](https://raw.githubusercontent.com/magisAR9/.github/main/profile/AR9visuel.JPG)
 
 
 ### 👩‍💻 Projet
