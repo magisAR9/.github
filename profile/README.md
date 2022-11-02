@@ -12,13 +12,18 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 ### 🍿 Actualités
 
-- Organisation d'une journée d'études le 6 janvier 2023 à Rennes. A suivre ici : [JEGeovizRennes](https://github.com/magisAR9/JEGeovizRennes) </br>
-- Les webinaires réguliers seront programmés à partir de novembre 2022. A suivre par là : [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) </br>
-- Soumission de la V2 de la proposition de session [_**Géovisualisation à l'heure de l'open data et du big data**_](https://github.com/magisAR9/CIST2023), pour le futur colloque du CIST 2023 - _Apprendre des territoires – Enseigner les territoires_. </br>
-- Décision prise de proposer un atelier/working class au prochain colloque de SAGEO'2023 à Laval, au Québec. A suivre... </br> 
+-8 novembre 2022 (12h30-13h30) : le [Webinaire Cartes Blanches](https://github.com/magisAR9/webinaires) reçoit Colin KEROUANTON (IR, PACTE) _Effets spéciaux pour questions spatiales_. </br>
+-6 janvier 2023 : [Journée d'Etudes - JEGeovizRennes](https://github.com/magisAR9/JEGeovizRennes). </br>
+-15 janvier 2023, Fin de l'appel à communications pour le colloque du CIST 2023 - _Apprendre des territoires – Enseigner les territoires_.</br>
+---> La Session N : [Géovisualisation des données à l’heure de l’open data et du big data](https://cist2023.sciencesconf.org/resource/page/id/24) est portée par l'AR9magis.</br>
+
+-Décision prise de proposer un atelier/working class au prochain colloque de SAGEO'2023 à Laval, au Québec. </br>
+
+### 👩‍💻 Travaux - Accès directs
+- [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) </br>
 
 
-### 🌈 Participer
+### 🌈 Participer à l'AR9magis
 -Ecrivez à [Boris](mailto:boris.mericskay@univ-rennes2.fr) et/ou à [Nicolas](mailto:nicolas.lambert@cnrs.fr) pour participer. </br>
 -Inscrivez-vous à la liste de diffusion [cartogeoviz](http://listes.ifsttar.fr/wws/info/cartogeoviz-magis) ou contactez [Françoise](mailto:francoise.bahoken@univ-eiffel.fr) en cas de besoins.
 
