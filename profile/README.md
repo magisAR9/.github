@@ -12,7 +12,7 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 ### 🍿 Actualités
 
--8 novembre 2022 (12h30-13h30) : le [Webinaire Cartes Blanches](https://github.com/magisAR9/webinaires) reçoit Colin KEROUANTON (IR, PACTE) _Effets spéciaux pour questions spatiales_. </br>
+-8 novembre 2022 (12h30-13h30) : le **#1.Webinaire Cartes Blanches** [_Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/1%20-%20KEROUANTON%20colin.md) sera présenté par Colin KEROUANTON (IR, PACTE) et animé par Boris. </br>
 -6 janvier 2023 : [Journée d'Etudes - JEGeovizRennes](https://github.com/magisAR9/JEGeovizRennes). </br>
 -15 janvier 2023, Fin de l'appel à communications pour le colloque du CIST 2023 - _Apprendre des territoires – Enseigner les territoires_.</br>
 ---> La Session N : [Géovisualisation des données à l’heure de l’open data et du big data](https://cist2023.sciencesconf.org/resource/page/id/24) est portée par l'AR9magis.</br>
