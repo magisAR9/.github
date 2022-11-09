@@ -1,6 +1,16 @@
 ![alt text](https://raw.githubusercontent.com/magisAR9/.github/main/profile/AR9visuelok.JPG)
 
-### 🍿 Actualités
+
+### 📋 Projet de l'action de recherche
+
+L'objectif général de cette action de recherche du GDR MAGIS est de fédérer des réflexions et des travaux scientifiques d’origines disciplinaires variées menés autour de la **(carto)graphie contemporaine au sens large et de la (géo)visualisation de données**. Pour ce faire, elle propose d’une part, de mener une veille théorique, méthodologique et technique sur les modalités de la fabrique des cartes et, d’autre part, de fédérer et d’animer une communauté de chercheurs (essentiellement géographes, géomaticiens, cartographes, informaticiens...) lors d’ateliers et de séminaires thématiques et méthodologiques. [Lire le projet.](https://magisar9.github.io/project/)
+
+[Présentation lors des assises du GdR (2022)](https://docs.google.com/presentation/d/1vMbVFTlbGGtZzkIO2-XujwNUK82SWf_EGzqYgBKjX0E/edit#slide=id.p)
+
+**Mots-clés :** Fabriques et usages cartographiques, (géo)visualisation, interaction, information spatiale, sémiologie
+
+
+### 📆 Actualités de l'AR
 
 * 8 novembre 2022 (12h30-13h30) : le **#1.Webinaire Cartes Blanches** [_Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md) sera présenté par Colin KEROUANTON (IR, PACTE) et animé par Boris. </br>
 
@@ -13,17 +23,6 @@
 * Décision prise de proposer un atelier/working class au prochain colloque de [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/) au Québec. </br>
 
 
-### 📋 Projet de l'action de recherche
-
-L'objectif général de cette action de recherche du GDR MAGIS est de fédérer des réflexions et des travaux scientifiques d’origines disciplinaires variées menés autour de la **(carto)graphie contemporaine au sens large et de la (géo)visualisation de données**. Pour ce faire, elle propose d’une part, de mener une veille théorique, méthodologique et technique sur les modalités de la fabrique des cartes et, d’autre part, de fédérer et d’animer une communauté de chercheurs (essentiellement géographes, géomaticiens, cartographes, informaticiens...) lors d’ateliers et de séminaires thématiques et méthodologiques. [Lire le projet.](https://magisar9.github.io/project/)
-
-[Présentation lors des assises du GdR (2022)](https://docs.google.com/presentation/d/1vMbVFTlbGGtZzkIO2-XujwNUK82SWf_EGzqYgBKjX0E/edit#slide=id.p)
-
-**Mots-clés :** Fabriques et usages cartographiques, (géo)visualisation, interaction, information spatiale, sémiologie
-
-[En savoir plus...](https://github.com/magisAR9/project)
-
-
 ### 👩‍💻 Webinaires Cartes Blanches
 
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
@@ -32,7 +31,7 @@ L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanc
 
 ### 📚 Journées d'études 
 
-* 6 janvier 2023 : La boîte à outils de cartographie et de géovisualisation de données : regards croisés de chercheurs [informations](https://github.com/magisAR9/JEGeovizRennes). </br>
+* 6 janvier 2023 (Rennes) : La boîte à outils de cartographie et de géovisualisation de données : regards croisés de chercheurs [informations](https://github.com/magisAR9/JEGeovizRennes). </br>
 
 
 
