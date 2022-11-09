@@ -12,7 +12,7 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 ### 📆 Actualités de l'AR
 
-* 8 novembre 2022 (12h30-13h30) : le **#1.Webinaire Cartes Blanches** [_Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md) sera présenté par Colin KEROUANTON (IR, PACTE) et animé par Boris. </br>
+* 5 décembre 2022 (12h30-13h30) : Le #2 Webinaire Cartes Blanches (_titre à venir_) sera présenté par Philippe RIVIERE @fil, Observable/Visions Carto et animé par Nicolas.
 
 * 6 janvier 2023 : [Journée d'Etudes - JEGeovizRennes](https://github.com/magisAR9/JEGeovizRennes). </br>
 
