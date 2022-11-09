@@ -27,7 +27,13 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 ### 👩‍💻 Webinaires Cartes Blanches
 
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
-- [Expace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) </br>
+[Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) </br>
+
+
+### 📚 Journées d'études 
+
+* 6 janvier 2023 : La boîte à outils de cartographie et de géovisualisation de données : regards croisés de chercheurs [informations](https://github.com/magisAR9/JEGeovizRennes). </br>
+
 
 
 ### 🌈 Participer à l'AR9magis
