@@ -31,7 +31,7 @@ L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanc
 
 ### 📚 Journées d'études 
 
-* 6 janvier 2023 (Rennes) : La boîte à outils de cartographie et de géovisualisation de données : regards croisés de chercheurs [informations](https://github.com/magisAR9/JEGeovizRennes). </br>
+* 6 janvier 2023 (Rennes) : La boîte à outils de cartographie et de géovisualisation de données : regards croisés de chercheurs [(informations)](https://github.com/magisAR9/JEGeovizRennes). </br>
 
 
 
