@@ -12,7 +12,7 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 ### 📆 Actualités de l'AR
 
-* 5 décembre 2022 (12h30-13h30) : Le #2 Webinaire Cartes Blanches (_titre à venir_) sera présenté par Philippe RIVIERE @fil, Observable/Visions Carto et animé par Nicolas.
+* 5 décembre 2022 (12h30-13h30) : Le #2 Webinaire Cartes Blanches [_Expérimentations dans mon navigateur web_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz2-riviere.md) sera présenté par Philippe RIVIERE @fil, Observable/Visions Carto et animé par Nicolas.
 
 * 6 janvier 2023 : [Journée d'Etudes - JEGeovizRennes](https://github.com/magisAR9/JEGeovizRennes). </br>
 
