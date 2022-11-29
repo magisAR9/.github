@@ -20,7 +20,8 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 ---> La Session N : [Géovisualisation des données à l’heure de l’open data et du big data](https://cist2023.sciencesconf.org/resource/page/id/24) est portée par l'AR9magis. </br>:arrow_forward: [Déposer une proposition de communication](https://cist2023.sciencesconf.org/index/unauthorized) </br>
 (_Attention, vous devez disposer d'un compte sur la plateforme Sciencesconf_) </br> </br>
 
-* Décision prise de proposer un atelier/working class au prochain colloque de [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/) au Québec. </br>
+* 20 janvier 2023 : Fin de l'appel à communications pour le colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/). </br>
+---> l'AR proposera un atelier/working class qui aura lieu le 1er jour (5 juin 2023) </br>
 
 
 ### 👩‍💻 Webinaires Cartes Blanches
