@@ -12,8 +12,6 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 ### 📆 Actualités de l'AR
 
-* 5 décembre 2022 (12h30-13h30) : Le #2 Webinaire Cartes Blanches [_Expérimentations dans mon navigateur web_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz2-riviere.md) sera présenté par Philippe RIVIERE @fil, Observable/Visions Carto et animé par Nicolas.
-
 * 6 janvier 2023 : [Journée d'Etudes - JEGeovizRennes](https://github.com/magisAR9/JEGeovizRennes). </br>
 
 * 15 janvier 2023, Fin de l'appel à communications pour le colloque du CIST 2023 - _Apprendre des territoires – Enseigner les territoires_.</br>
@@ -23,6 +21,7 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 * 20 janvier 2023 : Fin de l'appel à communications pour le colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/). </br>
 ---> l'AR proposera un atelier/working class qui aura lieu le 1er jour (5 juin 2023) </br>
 
+* 2 février 2023 : (12h30-13h30) : Le #3 Webinaire _Cartes Blanches_ sera présenté par Pierre AUMOND @SoundCartograp1, CR, Univ. Gustave Eiffel/AME-UMRAE, autour de son projet  [soundcartography](https://soundcartography.wordpress.com/) et animé par Françoise
 
 ### 👩‍💻 Webinaires Cartes Blanches
 
