@@ -21,7 +21,9 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 ---> La Session N : [Géovisualisation des données à l’heure de l’open data et du big data](https://cist2023.sciencesconf.org/resource/page/id/24) est portée par l'AR9magis. </br>:arrow_forward: [Déposer une proposition de communication](https://cist2023.sciencesconf.org/index/unauthorized) </br>
 (_Attention, vous devez disposer d'un compte sur la plateforme Sciencesconf_) </br> 
 
-* 7 mars 2023 (12h30-13h30) : Le #4 Webinaire _Cartes Blanches_ sera présenté par Najla Touati (IE, Univ. de Toulouse Jean Jaurès/CNRS UMR LISST) et Laurent Jégou (MCF, Univ. de Toulouse Jean Jaurès/CNRS UMR LISST)
+* 7 mars 2023 (12h30-13h30) : Le #4 Webinaire _Cartes Blanches_ sera présenté par Najla TOUATI (IE, Univ. de Toulouse Jean Jaurès/CNRS UMR LISST) & Laurent JEGOU (MCF, Univ. de Toulouse Jean Jaurès/CNRS UMR LISST), et animé par Anne-Christine.
+
+* 4 acril 2023 (12h30-13h30) : Le #5 Webinaire _Cartes Blanches_ sera présenté par Aurélie DOUET (IE, CNRS UMR Géographie-Cités) et animé par Françoise.
 
 
 ### 👩‍💻 Webinaires Cartes Blanches
