@@ -27,7 +27,7 @@ L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanc
 
 **Prochaine séance :**
 
-* 2 février 2023 (12h30-13h30) : Le #3 Webinaire _Cartes Blanches_ sera présenté par **Pierre AUMOND** - [@SoundCartograp1](https://twitter.com/SoundCartograp1), CR, Univ. Gustave Eiffel/AME-UMRAE, autour de son projet  [soundcartography](https://soundcartography.wordpress.com/) et animé par Françoise.
+* 2 février 2023 (12h30-13h30) : Le #3 Webinaire _Cartes Blanches_ [Cartographie du paysage sonore urbain](https://github.com/magisAR9/webinaires) sera présenté par **Pierre AUMOND** [@SoundCartograp1](https://twitter.com/SoundCartograp1), CR, Univ. Gustave Eiffel/AME-UMRAE, autour de son projet [soundcartography](https://soundcartography.wordpress.com/) et animé par Françoise.
 
 Voir [la programmation](https://github.com/magisAR9/webinaires) 
 
