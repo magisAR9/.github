@@ -12,10 +12,11 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 ### 📆 Actualités de l'AR
 
-* 20 janvier 2023 : Fin de l'appel à communications pour le colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/). </br>
--> l'AR proposera un atelier/working class qui aura lieu le 1er jour (5 juin 2023) </br>
+* 20 janvier 2023 : l'AR a soumis **deux sessions indépendantes pour le  colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/)** à Laval (Québec) ; si elles sont retenues, elles auront lieu le lundi 5 juin 2023. </br>
+-La première demi-journée, portée par l'AR (et coordonnée par Nicolas), sera dédiée à l'Articulation de différents environnements de développement de géo-visualisations ; </br>
+-La seconde demi-journée, portée par Claire Cunty (UMR EVS) et al., portera sur le numérique et le sensible. Elle s'inscrit à la fois dans notre AR _(Carto)graphies et (Géo)visualisations de données_ et dans l'AR _Information géographique critique_.</br> 
 
-* 27 février 2023 (nouvelle date), Fin de l'appel à communications pour le colloque du CIST 2023 - _Apprendre des territoires – Enseigner les territoires_.</br>
+* 27 février 2023 (nouvelle date), Fin de **l'appel à communications pour le colloque du CIST 2023** - _Apprendre des territoires – Enseigner les territoires_.</br>
 -> La Session N : [Géovisualisation des données à l’heure de l’open data et du big data](https://cist2023.sciencesconf.org/resource/page/id/24) est portée par l'AR9magis. </br>:arrow_forward: [Déposer une proposition de communication](https://cist2023.sciencesconf.org/index/unauthorized) </br>
 (_Attention, vous devez disposer d'un compte sur la plateforme Sciencesconf_) </br> 
 
