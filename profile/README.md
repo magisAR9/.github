@@ -26,11 +26,11 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 [Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) </br>
 
-**Prochaine séance :**
+**Prochaine séance :** 
 
-* 2 février 2023 (12h30-13h30) : Le #3 Webinaire _Cartes Blanches_ [Cartographie du paysage sonore urbain](https://github.com/magisAR9/webinaires) sera présenté par **Pierre AUMOND** [@SoundCartograp1](https://twitter.com/SoundCartograp1), CR, Univ. Gustave Eiffel/AME-UMRAE, autour de son projet [soundcartography](https://soundcartography.wordpress.com/) et animé par Françoise.
+![alt text](https://github.com/magisAR9/webinaires/blob/main/img_reporte.PNG)
 
-Voir [la programmation](https://github.com/magisAR9/webinaires) 
+* 3 mars 2023 (12h30-13h30) : Le #4 Webinaire _Cartes Blanches_ **De la carte climatique au chorotype climatique : propositions de modèles graphiques** sera présenté par **Najla TOUATI** et **Laurent JEGOU** et animé par Anne-Christine.
 
 
 ### 📚 Journées d'études 
