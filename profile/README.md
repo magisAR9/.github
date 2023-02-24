@@ -29,7 +29,7 @@ L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanc
 
 **Prochaine séance :** 
 * mars : en cours de programmation
-* 6 avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [CartoDouet](https://twitter.com/CartoDouet/) </br> **[na.rm=TRUE](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)**(animation Françoise Bahoken).
+* 6 avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [CartoDouet](https://twitter.com/CartoDouet/) </br>.
 
 
 ### 📚 Journées d'études 
