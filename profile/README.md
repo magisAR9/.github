@@ -28,10 +28,8 @@ L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanc
 [Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) </br>
 
 **Prochaine séance :** 
-
-![alt text](https://github.com/magisAR9/webinaires/blob/main/img_reporte.PNG)
-
-* 3 mars 2023 (12h30-13h30) : Le #4 Webinaire _Cartes Blanches_ **De la carte climatique au chorotype climatique : propositions de modèles graphiques** sera présenté par **Najla TOUATI** et **Laurent JEGOU** et animé par Anne-Christine.
+* mars : en cours de programmation
+* 6 avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [CartoDouet](https://twitter.com/CartoDouet/) </br> **[na.rm=TRUE](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)**(animation Françoise Bahoken).
 
 
 ### 📚 Journées d'études 
