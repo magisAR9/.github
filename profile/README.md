@@ -24,14 +24,11 @@ auront lieu le lundi 5 juin 2023.
 ### 👩‍💻 Webinaires Cartes Blanches
 
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
+
+**Prochaine séance :** 
+> 6 avril 2023 : **[Aurélie DOUET](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md) (animation Françoise Bahoken)
+
 [Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) </br>
-
-**Prochaines séances :** 
-* 6 avril 2023 : **[Aurélie DOUET](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md) (animation Françoise Bahoken)
-* 4 mai 2023 : **Matthieu RAJERISON** (en cours de définition)
-* 6 juillet 2023 : Najla TOUATI et Laurent JÉGOU : *De la carte climatique au chorotype climatique : propositions de modèles graphiques*
-* 7 septembre 2023 : Jean-Philippe GAUTHIER, *[www.cartostats](http://www.cartostat.eu/)*
-
 
 ### 📚 Journées d'études 
 
