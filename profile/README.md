@@ -26,7 +26,7 @@ auront lieu le lundi 5 juin 2023.
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 **Prochaine séance :** 
-> 6 avril 2023 : **[Aurélie DOUET](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [na.rm=TRUE. Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md) (animation Françoise Bahoken)
+> 17 avril 2023 : **[Aurélie DOUET](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [na.rm=TRUE. Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md) (animation Françoise Bahoken)
 
 [Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) </br>
 
