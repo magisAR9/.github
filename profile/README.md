@@ -26,8 +26,8 @@ auront lieu le lundi 5 juin 2023.
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 **Prochaine séance :** 
-> 11 mai 2023 - Carte blanche #6 : **[RAJERISON Mathieu](https://datagistips.hypotheses.org/author/datagistips)**, Cerema, [@datagistips](https://twitter.com/datagistips) </br> *[Génération (de) cartes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz6-rajerison.md)* (animation Etienne Côme).
-
+> 6 juillet 2023 : De la carte climatique au chorotype climatique : propositions de modèles graphiques </br>
+[TOUATI Najla](https://lisst.univ-tlse2.fr/accueil/hn-accompagnement-de-la-recherche/najla-touati#/) et [JEGOU Laurent](https://ljegou.github.io/), UMR LISST (CNRS-Universté Toulouse 2 Jean Jaurès) (animation Anne-Christine)
 [Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) </br>
 
 ### 📚 Journées d'études 
