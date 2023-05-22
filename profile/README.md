@@ -26,8 +26,8 @@ auront lieu le lundi 5 juin 2023.
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 **Prochaine séance :** 
-> 6 juillet 2023 : De la carte climatique au chorotype climatique : propositions de modèles graphiques </br>
-[TOUATI Najla](https://lisst.univ-tlse2.fr/accueil/hn-accompagnement-de-la-recherche/najla-touati#/) et [JEGOU Laurent](https://ljegou.github.io/), UMR LISST (CNRS-Universté Toulouse 2 Jean Jaurès) (animation Anne-Christine)
+> 6 juillet 2023 : [De la carte climatique au chorotype climatique : propositions de modèles graphiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz4-touatijegou.md) </br>
+[Najla TOUATI](https://lisst.univ-tlse2.fr/accueil/hn-accompagnement-de-la-recherche/najla-touati#/) et [Laurent JÉGOU](https://ljegou.github.io/), UMR LISST (CNRS-Universté Toulouse 2 Jean Jaurès) (animation Anne-Christine)</BR>
 [Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) </br>
 
 ### 📚 Journées d'études 
