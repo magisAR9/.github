@@ -12,13 +12,15 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 ### 📆 Actualités de l'AR
 
-* l'AR propose **deux sessions indépendantes pour le colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/)** à Laval (Québec) qui 
+* l'AR9 propose **deux sessions indépendantes pour le colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/)** à Laval (Québec) qui 
 auront lieu le lundi 5 juin 2023. 
-</br> :arrow_forward: **Articulation de différents environnements de développement de géo-visualisations autour de Quarto**, coordonnée par Nicolas pour l'AR9magis ;
-</br> :arrow_forward: **Géographies numériques et approches sensibles de l’espace**, coordonnée par Claire Cunty (UMR EVS), et inscrite dans notre AR _(Carto)graphies et (Géo)visualisations de données_ et dans l'AR _Information géographique critique_.</br> 
+</br> :arrow_forward: **Articulation de différents environnements de développement de géo-visualisations autour de Quarto**, coordonnée par Nicolas Lambert pour l'AR9magis ;
+</br> :arrow_forward: **Géographies numériques et approches sensibles de l’espace**, coordonnée par Claire Cunty (UMR EVS), et inscrite à la fois dans notre AR9 _(Carto)graphies et (Géo)visualisations de données_ et dans l'AR14 _Information géographique critique_.</br> 
 
-* l'AR propose **une session pour le 6e colloque international du CIST (15-17 novembre 2023)** - _Apprendre des territoires – Enseigner les territoires_.
-</br>:arrow_forward: Session N [Géovisualisation des données à l’heure de l’open data et du big data](https://cist2023.sciencesconf.org/resource/page/id/24) </br> 
+* l'AR9 propose **une session pour le 6e colloque international du CIST (15-17 novembre 2023)** - _Apprendre des territoires – Enseigner les territoires_.
+</br>:arrow_forward: **Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques : enjeux sociaux, techniques et méthodologiques**, coordonnée par Françoise Bahoken, Étienne Côme, Sylvestre Duroudier, Julie Fen-Chong et Boris Mericskay. </br> 
+
+Cette session portée par l'AR9 - anciennement Session N [Géovisualisation des données à l’heure de l’open data et du big data](https://cist2023.sciencesconf.org/resource/page/id/24) - a été renommée et refondue suite à sa fusion avec la Session L [Connaître et enseigner le territoire à partir de l’information territoriale locale](https://cist2023.sciencesconf.org/resource/page/id/22).
 
 
 ### 👩‍💻 Webinaires Cartes Blanches
