@@ -28,9 +28,9 @@ Cette session portée par l'AR9 - anciennement Session N [Géovisualisation des 
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 **Prochaine séance :** 
-> 6 juillet 2023 : [De la carte climatique au chorotype climatique : propositions de modèles graphiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz4-touatijegou.md) </br>
-[Najla TOUATI](https://lisst.univ-tlse2.fr/accueil/hn-accompagnement-de-la-recherche/najla-touati#/) et [Laurent JÉGOU](https://ljegou.github.io/), UMR LISST (CNRS-Universté Toulouse 2 Jean Jaurès) (animation Anne-Christine)</BR>
-[Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) </br>
+> 7 septembre 2023 : Jean-Philippe GAUTIER présentera [www.cartostat.eu, une application web de cartographie statistique](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-gautier.md)</BR></BR>
+
+[Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) pour découvrir l'ensemble des sénaces passées et à venir.</br>
 
 ### 📚 Journées d'études 
 
