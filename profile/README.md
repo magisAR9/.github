@@ -12,16 +12,7 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 ### 📆 Actualités de l'AR
 
-* l'AR9 propose **deux sessions indépendantes pour le colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/)** à Laval (Québec) qui 
-auront lieu le lundi 5 juin 2023. 
-</br> :arrow_forward: **Articulation de différents environnements de développement de géo-visualisations autour de Quarto**, coordonnée par Nicolas Lambert pour l'AR9magis ;
-</br> :arrow_forward: **Géographies numériques et approches sensibles de l’espace**, coordonnée par Claire Cunty (UMR EVS), et inscrite à la fois dans notre AR9 _(Carto)graphies et (Géo)visualisations de données_ et dans l'AR14 _Information géographique critique_.</br> 
-
-* l'AR9 propose **une session pour le 6e colloque international du CIST (15-17 novembre 2023)** - _Apprendre des territoires – Enseigner les territoires_.
-</br>:arrow_forward: **Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques : enjeux sociaux, techniques et méthodologiques**, coordonnée par Françoise Bahoken, Étienne Côme, Sylvestre Duroudier, Julie Fen-Chong et Boris Mericskay. </br> 
-
-Cette session portée par l'AR9 - anciennement Session N [Géovisualisation des données à l’heure de l’open data et du big data](https://cist2023.sciencesconf.org/resource/page/id/24) - a été renommée et refondue suite à sa fusion avec la Session L [Connaître et enseigner le territoire à partir de l’information territoriale locale](https://cist2023.sciencesconf.org/resource/page/id/22).
-
+* Session L/N (Aubervilliers, campus Condorcet) **Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques : enjeux sociaux, techniques et méthodologiques**, coordonnée par Françoise BAHOKEN, Étienne CÔME, Sylvestre DUROUDIER, Julie FEN-CHONG, Françoise LUCCHINI et Boris MERICSKAY, Colloque du CIST 2023 [Apprendre des territoires/Enseigner es territoires](https://cist2023.sciencesconf.org/)
 
 ### 👩‍💻 Webinaires Cartes Blanches
 
@@ -32,9 +23,11 @@ L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanc
 
 [Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) pour découvrir l'ensemble des sénaces passées et à venir.</br>
 
-### 📚 Journées d'études 
+### 📚 Journées d'études et sessions de colloques 
 
-* 6 janvier 2023 (Rennes) : La boîte à outils de cartographie et de géovisualisation de données : regards croisés de chercheurs [(informations)](https://github.com/magisAR9/JEGeovizRennes). </br>
+* 5 juin 2023 (Laval, Québec) **Articulation de différents environnements de développement de géo-visualisations autour de Quarto**, colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/). Session coordonnée par Nicolas LAMBERT pour l'AR9magis ;
+* 5 juin 2023 (Laval, Québec)  **Géographies numériques et approches sensibles de l’espace**, colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/). Session coordonnée par Claire CUNTY (UMR EVS), et inscrite à la fois dans notre AR9 _(Carto)graphies et (Géo)visualisations de données_ et dans l'AR14 _Information géographique critique_.</br> 
+* 6 janvier 2023 (Rennes) : **La boîte à outils de cartographie et de géovisualisation de données : regards croisés de chercheurs** [(informations)](https://github.com/magisAR9/JEGeovizRennes). </br>
 
 
 
