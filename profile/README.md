@@ -12,14 +12,20 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 ### 📆 Actualités de l'AR
 
-* Session L/N (Aubervilliers, campus Condorcet) **Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques : enjeux sociaux, techniques et méthodologiques**, coordonnée par Françoise BAHOKEN, Étienne CÔME, Sylvestre DUROUDIER, Julie FEN-CHONG, Françoise LUCCHINI et Boris MERICSKAY, Colloque du CIST 2023 [Apprendre des territoires/Enseigner es territoires](https://cist2023.sciencesconf.org/)
+* Session L/N (Aubervilliers, campus Condorcet) **Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques : enjeux sociaux, techniques et méthodologiques** au Colloque du CIST 2023 [Apprendre des territoires/Enseigner es territoires](https://cist2023.sciencesconf.org/) </BR>
+Coordination : Françoise BAHOKEN, Étienne CÔME, Sylvestre DUROUDIER, Julie FEN-CHONG, Françoise LUCCHINI et Boris MERICSKAY, 
+> **Jeudi 16 septembre 2023** </BR>
+ 8h30 : 10h00 Première partie </BR>
+ pause </BR>
+ 10h30 : 12h00 Deuxième partie
 
 ### 👩‍💻 Webinaires Cartes Blanches
 
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 **Prochaine séance :** 
-> 7 septembre 2023 : Jean-Philippe GAUTIER présentera [www.cartostat.eu, une application web de cartographie statistique](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-gautier.md)</BR></BR>
+> 5 Octobre 2023 : Julien GAFFURI, Eurostats, @julgaf, gridviz (Animation Etienne Côme)
+
 
 [Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) pour découvrir l'ensemble des sénaces passées et à venir.</br>
 
