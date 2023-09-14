@@ -12,7 +12,7 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 ### 📆 Actualités de l'AR
 
-* Session L/N (Aubervilliers, campus Condorcet) **Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques : enjeux sociaux, techniques et méthodologiques** au Colloque du CIST 2023 [Apprendre des territoires/Enseigner es territoires](https://cist2023.sciencesconf.org/) </BR>
+* Session L/N (Aubervilliers, campus Condorcet) **[Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques](https://cist2023.sciencesconf.org/resource/page/id/29) : enjeux sociaux, techniques et méthodologiques** au Colloque du CIST 2023 [Apprendre des territoires/Enseigner es territoires](https://cist2023.sciencesconf.org/) </BR>
 Coordination : Françoise BAHOKEN, Étienne CÔME, Sylvestre DUROUDIER, Julie FEN-CHONG, Françoise LUCCHINI et Boris MERICSKAY, 
 > **Jeudi 16 septembre 2023** </BR>
  8h30 : 10h00 Première partie </BR>
