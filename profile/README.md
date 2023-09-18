@@ -19,6 +19,8 @@ Coordination : Françoise BAHOKEN, Étienne CÔME, Sylvestre DUROUDIER, Julie FE
  pause </BR>
  10h30 : 12h00 Deuxième partie
 
+* Assises de [MAGIS](https://journeesmagis.sciencesconf.org/) à Bordeaux, **du 22 au 24 novembre 2023** </BR>
+
 ### 👩‍💻 Webinaires Cartes Blanches
 
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
