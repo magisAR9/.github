@@ -12,23 +12,26 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 ### 📆 Actualités de l'AR
 
-* Session L/N (Aubervilliers, campus Condorcet) **[Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques](https://cist2023.sciencesconf.org/resource/page/id/29) : enjeux sociaux, techniques et méthodologiques** au Colloque du CIST 2023 [Apprendre des territoires/Enseigner es territoires](https://cist2023.sciencesconf.org/) </BR>
-Coordination : Françoise BAHOKEN, Étienne CÔME, Sylvestre DUROUDIER, Julie FEN-CHONG, Françoise LUCCHINI et Boris MERICSKAY, 
-> **Jeudi 16 novembre 2023** </BR>
- 8h30 : 10h00 Première partie </BR>
- pause </BR>
- 10h30 : 12h00 Deuxième partie
+> **Jeudi 16 novembre 2023** </br> 
+10h30 : 12h30
 
-* Assises de [MAGIS](https://journeesmagis.sciencesconf.org/) à Bordeaux, **du 22 au 24 novembre 2023** </BR>
+* Session L/N (Aubervilliers, campus Condorcet) **[Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques](https://cist2023.sciencesconf.org/resource/page/id/29) : enjeux sociaux, techniques et méthodologiques** au Colloque du CIST 2023 [Apprendre des territoires/Enseigner es territoires](https://cist2023.sciencesconf.org/) </BR>
+Coordination : Françoise BAHOKEN, Étienne CÔME, Sylvestre DUROUDIER, Julie FEN-CHONG, Françoise LUCCHINI et Boris MERICSKAY, </br> 
+
+> **du 22 au 24 novembre 2023** </br>
+* Assises de [MAGIS](https://journeesmagis.sciencesconf.org/) à Bordeaux, 
+L'AR9 sera représentée par Boris.
 
 ### 👩‍💻 Webinaires Cartes Blanches
 
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 **Prochaine séance :** 
-> 5 Octobre 2023 : Julien GAFFURI, Eurostats, @julgaf, gridviz (Animation Etienne Côme)
+> 7 Novembre 2023 : </br> 
+**Maher BEN REBAH, Mourad Ben Cheikh, Mohamed Ben Guiza, Alia Gana**, UMR 7533 LADYSS, [ELYSSA : Cartographier et analyser le vote en Tunisie depuis 2011](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz9-benrebah.md)
+(Animation Françoise BAHOKEN)
 
-
+ 
 [Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) pour découvrir l'ensemble des sénaces passées et à venir.</br>
 
 ### 📚 Journées d'études et sessions de colloques 
