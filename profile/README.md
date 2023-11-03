@@ -12,14 +12,16 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 ### 📆 Actualités de l'AR
 
-> **Jeudi 16 novembre 2023** </br> 
-10h30 : 12h30
+> **Jeudi 16 novembre 2023 de 10h30 : 12h30** à Aubervilliers, campus Condorcet </br>
+Colloque du [CIST 2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/) </br> 
+**Session L/N : Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques : enjeux sociaux, techniques et méthodologiques**
+**[Programme](https://github.com/magisAR9/CIST2023/blob/main/README.md)** </br>
+Coporteur.e.s : Françoise BAHOKEN, Étienne CÔME, Sylvestre DUROUDIER, Julie FEN-CHONG, Françoise LUCCHINI et Boris MERICSKAY,
 
-* Session L/N (Aubervilliers, campus Condorcet) **[Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques](https://cist2023.sciencesconf.org/resource/page/id/29) : enjeux sociaux, techniques et méthodologiques** au Colloque du CIST 2023 [Apprendre des territoires/Enseigner es territoires](https://cist2023.sciencesconf.org/) </BR>
-Coordination : Françoise BAHOKEN, Étienne CÔME, Sylvestre DUROUDIER, Julie FEN-CHONG, Françoise LUCCHINI et Boris MERICSKAY, </br> 
+</br>
 
 > **du 22 au 24 novembre 2023** </br>
-* Assises de [MAGIS](https://journeesmagis.sciencesconf.org/) à Bordeaux, 
+Assises de [MAGIS](https://journeesmagis.sciencesconf.org/) à Bordeaux, 
 L'AR9 sera représentée par Boris.
 
 ### 👩‍💻 Webinaires Cartes Blanches
