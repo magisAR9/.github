@@ -29,9 +29,9 @@ L'AR9 sera représentée par Boris.
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 **Prochaine séance :** 
-> 7 Novembre 2023 : </br> 
-**Maher BEN REBAH, Mourad Ben Cheikh, Mohamed Ben Guiza, Alia Gana**, UMR 7533 LADYSS, [ELYSSA : Cartographier et analyser le vote en Tunisie depuis 2011](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz9-benrebah.md)
-(Animation Françoise BAHOKEN)
+> Janvier 2024 : </br> 
+**Damien MASSON **, affiliation, titre </br> 
+(Animation Robin CURA)
 
  
 [Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) pour découvrir l'ensemble des sénaces passées et à venir.</br>
