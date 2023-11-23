@@ -5,9 +5,9 @@
 
 L'objectif général de cette action de recherche du GDR MAGIS est de fédérer des réflexions et des travaux scientifiques d’origines disciplinaires variées menés autour de la **(carto)graphie contemporaine au sens large et de la (géo)visualisation de données**. Pour ce faire, elle propose d’une part, de mener une veille théorique, méthodologique et technique sur les modalités de la fabrique des cartes et, d’autre part, de fédérer et d’animer une communauté de chercheurs (essentiellement géographes, géomaticiens, cartographes, informaticiens...) lors d’ateliers et de séminaires thématiques et méthodologiques. [Lire le projet.](https://magisar9.github.io/project/)
 
-[Présentation lors des assises du GdR (2022)](https://docs.google.com/presentation/d/1vMbVFTlbGGtZzkIO2-XujwNUK82SWf_EGzqYgBKjX0E/edit#slide=id.p)
+:arrow_right_hook: [Présentation lors des assises du GdR (2022)](https://docs.google.com/presentation/d/1vMbVFTlbGGtZzkIO2-XujwNUK82SWf_EGzqYgBKjX0E/edit#slide=id.p)
 
-[Présentation du bilan de mi-mandat (2023))](https://docs.google.com/presentation/d/1b98msRwNHuEOHK_aPW6YCSWaDZrtye4qNdRXtIf5Mrs/edit#slide=id.p)
+:arrow_right_hook: [Présentation du bilan de mi-mandat (2023))](https://docs.google.com/presentation/d/1b98msRwNHuEOHK_aPW6YCSWaDZrtye4qNdRXtIf5Mrs/edit#slide=id.p)
 
 
 **Mots-clés :** Fabriques et usages cartographiques, (géo)visualisation, interaction, information spatiale, sémiologie
