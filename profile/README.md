@@ -7,6 +7,9 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 [Présentation lors des assises du GdR (2022)](https://docs.google.com/presentation/d/1vMbVFTlbGGtZzkIO2-XujwNUK82SWf_EGzqYgBKjX0E/edit#slide=id.p)
 
+[Présentation du bilan de mi-mandat (2023))](https://docs.google.com/presentation/d/1b98msRwNHuEOHK_aPW6YCSWaDZrtye4qNdRXtIf5Mrs/edit#slide=id.p)
+
+
 **Mots-clés :** Fabriques et usages cartographiques, (géo)visualisation, interaction, information spatiale, sémiologie
 
 
