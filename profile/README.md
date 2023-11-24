@@ -32,8 +32,8 @@ L'AR9 sera représentée par Boris.
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 **Prochaine séance :** 
-TextBI : Une plateforme interactive pour la visualisation de données multidimensionnelles issues des réseaux sociaux
-par Maxime MASSON (Animation par Robin Cura)
+:arrow_forward: TextBI :  jeudi 18 janvier 2024  / Une plateforme interactive pour la visualisation de données multidimensionnelles issues des réseaux sociaux
+par **Maxime MASSON** (Animation par Robin Cura)
 
  
 [Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) pour découvrir l'ensemble des sénaces passées et à venir.</br>
