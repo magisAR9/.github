@@ -36,7 +36,7 @@ L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanc
 
 :arrow_forward: **Prochaine séance :** 
  TextBI :  jeudi 18 janvier 2024  / Une plateforme interactive pour la visualisation de données multidimensionnelles issues des réseaux sociaux
-par **Maxime MASSON** (Animation par Robin Cura) [Information de connexion]([https://github.com/magisAR9/webinaires](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz10-masson.md)
+par **Maxime MASSON** (Animation par Robin Cura) [Information de connexion](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz10-masson.md)
 
  
 
