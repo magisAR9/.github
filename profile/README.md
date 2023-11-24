@@ -1,6 +1,7 @@
 ![alt text](https://raw.githubusercontent.com/magisAR9/.github/main/profile/AR9visuelok.JPG)
 
 <br>
+
 ### 📋 Projet de l'action de recherche
 
 L'objectif général de cette action de recherche du GDR MAGIS est de fédérer des réflexions et des travaux scientifiques d’origines disciplinaires variées menés autour de la **(carto)graphie contemporaine au sens large et de la (géo)visualisation de données**. Pour ce faire, elle propose d’une part, de mener une veille théorique, méthodologique et technique sur les modalités de la fabrique des cartes et, d’autre part, de fédérer et d’animer une communauté de chercheurs (essentiellement géographes, géomaticiens, cartographes, informaticiens...) lors d’ateliers et de séminaires thématiques et méthodologiques. [Lire le projet.](https://magisar9.github.io/project/)
@@ -54,9 +55,13 @@ par **Maxime MASSON** (Animation par Robin Cura) [Information de connexion](http
 
 
 <br>
+
 ### 🌈 Participer à l'AR9magis
 -Ecrivez à [Boris](mailto:boris.mericskay@univ-rennes2.fr) et/ou à [Nicolas](mailto:nicolas.lambert@cnrs.fr) pour participer. </br>
 -Inscrivez-vous à la liste de diffusion [cartogeoviz](http://listes.ifsttar.fr/wws/info/cartogeoviz-magis) ou contactez [Françoise](mailto:francoise.bahoken@univ-eiffel.fr) en cas de besoins.
+
+
+<br>
 
 > Renseignez en ligne, si possible, ce tableau collectif **[Framacalc sur les outils](https://lite.framacalc.org/v8em5nhyq3-9t7k)** que vous utilisez régulièrement.
 
