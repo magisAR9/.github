@@ -18,27 +18,15 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 ### 📆 Actualités de l'AR
 
-> **Jeudi 16 novembre 2023 de 10h30 : 12h30** à Aubervilliers, campus Condorcet </br>
-Colloque du [CIST 2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/) </br> 
-**Session L/N : Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques : enjeux sociaux, techniques et méthodologiques**
-**[Programme](https://github.com/magisAR9/CIST2023/blob/main/README.md)** </br>
-Coporteur.e.s : Françoise BAHOKEN, Étienne CÔME, Sylvestre DUROUDIER, Julie FEN-CHONG, Françoise LUCCHINI et Boris MERICSKAY,
-
-</br>
-
 > **du 22 au 24 novembre 2023** </br>
 Assises de [MAGIS](https://journeesmagis.sciencesconf.org/) à Bordeaux, 
 L'AR9 sera représentée par Boris.
-
-
-<br>
-
 
 ### 👩‍💻 Webinaires Cartes Blanches
 
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
-[Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) pour découvrir l'ensemble des sénaces passées et à venir.</br>
+[Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) pour découvrir l'ensemble des séances passées et à venir.</br>
 
 
 :arrow_forward: **Prochaine séance :** 
@@ -49,6 +37,7 @@ par **Maxime MASSON** (Animation par Robin Cura) [Information de connexion](http
 
 ### 📚 Journées d'études et sessions de colloques 
 
+* 16 novembre 2023 (Aubervilliers, campus Condorcet, Paris). **Session L/N : Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques : enjeux sociaux, techniques et méthodologiques** [Programme](https://github.com/magisAR9/CIST2023/blob/main/README.md), Colloque du [CIST 2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/). Session portée par Françoise BAHOKEN, Étienne CÔME et Boris MERICSKAY, en collaboration avec Sylvestre Duroudier, Julie Fen-Chong et Françoise Lucchini. </br> 
 * 5 juin 2023 (Laval, Québec) **Articulation de différents environnements de développement de géo-visualisations autour de Quarto**, colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/). Session coordonnée par Nicolas LAMBERT pour l'AR9magis ;
 * 5 juin 2023 (Laval, Québec)  **Géographies numériques et approches sensibles de l’espace**, colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/). Session coordonnée par Claire CUNTY (UMR EVS), et inscrite à la fois dans notre AR9 _(Carto)graphies et (Géo)visualisations de données_ et dans l'AR14 _Information géographique critique_.</br> 
 * 6 janvier 2023 (Rennes) : **La boîte à outils de cartographie et de géovisualisation de données : regards croisés de chercheurs** [(informations)](https://github.com/magisAR9/JEGeovizRennes). </br>
