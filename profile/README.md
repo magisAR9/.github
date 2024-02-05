@@ -18,9 +18,9 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 ### 📆 Actualités de l'AR
 
-> **du 22 au 24 novembre 2023** </br>
-Assises de [MAGIS](https://journeesmagis.sciencesconf.org/) à Bordeaux, 
-L'AR9 sera représentée par Boris.
+> **automne 2024** </br>
+Réflexion en cours sur le montage d'une journée d'études sur les Interfaces et les interactions (titre provisoire)
+
 
 ### 👩‍💻 Webinaires Cartes Blanches
 
