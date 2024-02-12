@@ -28,9 +28,8 @@ L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanc
 
 [Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) pour découvrir l'ensemble des séances passées et à venir.</br>
 
-
-:arrow_forward: **Prochaine séance :** mardi  6 février 2024 : Ce que le code a apporté dans ma pratique de la dataviz, </br> 
-par **[Thomas ANSART](https://thomasansart.info/)**, Atelier de cartographie de Sciences Po (Animation Nicolas Lambert)
+:arrow_forward: **Prochaine séance :** jeudi  21 mars 2024 : _titre à venir_, </br> 
+par **[Gaëlle SUTTON](https://gaellesuttoncarto.wordpress.com/)**, Cartographe indépendante (Animation Boris Mericskay)
 
  <br>
 
