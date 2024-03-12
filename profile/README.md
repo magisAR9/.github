@@ -27,7 +27,7 @@ Réflexion en cours sur le montage d'une journée d'études sur les Interfaces e
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 :arrow_forward: **Prochaine séance :**
-* jeudi  21 mars 2024 : _titre à venir_, </br> 
+* jeudi 21 mars 2024 : _[Mon activité de cartographe indépendante](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz12_GaelleSutton.md)_, </br> 
 par **[Gaëlle SUTTON](https://gaellesuttoncarto.wordpress.com/)**, Cartographe indépendante (Animation Boris Mericskay)
 
 [Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) pour découvrir l'ensemble des séances passées et à venir.</br>
