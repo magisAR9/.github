@@ -27,7 +27,7 @@ Réflexion en cours sur le montage d'une journée d'études sur les Interfaces e
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 :arrow_forward: **Prochaine séance :**
-* mardi 14 mai 2024 : **Marion ALBERTELLI**, post-doctorante, Univ. Gustave Eiffel/UMR LVMT, Cartographier et analyser les pratiques des V.T.C. dans les quartiers de gare (Animation Françoise Bahoken) </br> 
+* mardi 14 mai 2024 : **Marion ALBERTELLI**, post-doctorante, Univ. Gustave Eiffel/UMR LVMT, [Cartographier et analyser les pratiques des V.T.C. dans les quartiers de gare](https://github.com/magisAR9/webinaires/blob/main/cartogeovis14_malbertelli.md) (Animation Françoise Bahoken) </br> 
 
 :calendar: **Séances à venir**
 - mardi 25 juin 2024 : **Laurent JÉGOU**, MCF, UMR LISST, Université Toulouse-Jean Jaurès, [Des cartes et des couleurs : enquête sur les gradients](https://github.com/magisAR9/webinaires/blob/main/cartogeovis14_ljegou.md), (animation Anne-Christine Bronner) </br> 
