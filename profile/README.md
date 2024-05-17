@@ -27,7 +27,7 @@ Réflexion en cours sur le montage d'une journée d'études sur les Interfaces e
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 :arrow_forward: **Prochaine séance :**
-* lundi 3 juin 2024 : **Frédéric ROULIER**, MCF, UMR 7058 EDYSAN, Université de Picardie Jules Verne, [Autour de MapMorphy (titre provisoire)](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz15-roulier.md) (Animation : à venir) </br> 
+* lundi 3 juin 2024 : **Frédéric ROULIER**, MCF, UMR 7058 EDYSAN, Université de Picardie Jules Verne, [MapMorphy, un logiciel de morphométrie géométrique pour les données cartographiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz15-roulier.md) (Animation : à venir) </br> 
 
 :calendar: **Séances à venir**
 - mardi 25 juin 2024 : **Laurent JÉGOU**, MCF, UMR LISST, Université Toulouse-Jean Jaurès, [Des cartes et des couleurs : enquête sur les gradients](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz16-ljegou.md), (animation Anne-Christine Bronner) </br> 
