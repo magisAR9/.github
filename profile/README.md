@@ -13,31 +13,31 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 **Mots-clés :** Fabriques et usages cartographiques, (géo)visualisation, interaction, information spatiale, sémiologiebr
 
-<br>
+<br><br>
 
 
 ### 📆 Actualités de l'AR
 
-> **automne 2024** </br>
-Réflexion en cours sur le montage d'une journée d'études sur les Interfaces et les interactions (titre provisoire)
+> **4 octobre 2024 (Champs-sur-Marne, Campus Descartes)** </br>
+Travaux en cours sur le montage de la journée d'études **Géovisualisations : Interfaces et Interactions**.<br>
+Porteurs : Étienne CÔME et Robin CURA pour l'AR9magis
 
-
+<br><br>
 ### 👩‍💻 Webinaires Cartes Blanches
 
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 :arrow_forward: **Prochaine séance :**
-* lundi 3 juin 2024 : **Frédéric ROULIER**, MCF, UMR 7058 EDYSAN, Université de Picardie Jules Verne, [MapMorphy, un logiciel de morphométrie géométrique pour les données cartographiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz15-roulier.md) (Animation : à venir) </br> 
+* mardi 25 juin 2024 : **Laurent JÉGOU**, MCF, UMR LISST, Université Toulouse-Jean Jaurès, [Des cartes et des couleurs : enquête sur les gradients](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz16-ljegou.md), (animation Anne-Christine Bronner) </br> 
 
 :calendar: **Séances à venir**
-- mardi 25 juin 2024 : **Laurent JÉGOU**, MCF, UMR LISST, Université Toulouse-Jean Jaurès, [Des cartes et des couleurs : enquête sur les gradients](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz16-ljegou.md), (animation Anne-Christine Bronner) </br> 
-
+* septembre 2024 : **Lucas DESTREM** (à confirmer). (animation Boris MERICSKAY) 
 
 [Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) pour découvrir l'ensemble des séances passées et à venir.</br>
 
  <br>
 
-### 📚 Journées d'études et sessions de colloques 
+### 📚 Journées d'études et sessions de colloques passées
 
 * 16 novembre 2023 (Aubervilliers, campus Condorcet, Paris). **Session L/N : Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques : enjeux sociaux, techniques et méthodologiques** [Programme](https://github.com/magisAR9/CIST2023/blob/main/README.md), Colloque du [CIST 2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/). Session portée par Françoise BAHOKEN, Étienne CÔME et Boris MERICSKAY, en collaboration avec Sylvestre Duroudier, Julie Fen-Chong et Françoise Lucchini. </br> 
 * 5 juin 2023 (Laval, Québec) **Articulation de différents environnements de développement de géo-visualisations autour de Quarto**, colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/). Session coordonnée par Nicolas LAMBERT pour l'AR9magis ;
