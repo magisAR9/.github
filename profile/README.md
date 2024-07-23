@@ -19,8 +19,10 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 ### 📆 Actualités de l'AR
 
 > **4 octobre 2024 (Champs-sur-Marne, Campus Descartes)** </br>
-Travaux en cours sur le montage de la journée d'études **Géovisualisations : Interfaces et Interactions**.<br>
-Porteurs : Étienne CÔME et Robin CURA pour l'AR9magis
+
+Journée d'études **Géovisualisations : Interfaces et Interactions**.<br>
+Porteurs : Étienne CÔME et Robin CURA pour l'AR9magis </br>
+:arrow_forward: [Voir l'appel à communications](https://framaforms.org/journee-detude-ar9-interactions-interfaces-1716379792)
 
 <br><br>
 ### 👩‍💻 Webinaires Cartes Blanches
@@ -31,9 +33,10 @@ L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanc
 * mardi 25 juin 2024 : **Laurent JÉGOU**, MCF, UMR LISST, Université Toulouse-Jean Jaurès, [Des cartes et des couleurs : enquête sur les gradients](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz16-ljegou.md), (animation Anne-Christine Bronner) </br> 
 
 :calendar: **Séances à venir**
-* septembre 2024 : **Lucas DESTREM** (à confirmer). (animation Boris MERICSKAY) 
+* septembre 2024 : **Lucas DESTREM** (à confirmer). (animation Boris MERICSKAY) </br> 
+* 15 octobre 2024 : **Jean-Marc VIGLINO**, Ingénieur IGN, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html) (animation Françoise BAHOKEN)
 
-[Espace des Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires) pour découvrir l'ensemble des séances passées et à venir.</br>
+[Espace des Webinaires Cartes Blanches](https://magisar9.github.io/webinaires/) pour découvrir l'ensemble des séances passées et à venir.</br>
 
  <br>
 
