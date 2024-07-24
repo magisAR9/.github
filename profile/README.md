@@ -8,7 +8,7 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 :arrow_right_hook: [Présentation lors des assises du GdR (2022)](https://docs.google.com/presentation/d/1vMbVFTlbGGtZzkIO2-XujwNUK82SWf_EGzqYgBKjX0E/edit#slide=id.p)
 
-:arrow_right_hook: [Présentation du bilan de mi-mandat (2023))](https://docs.google.com/presentation/d/1b98msRwNHuEOHK_aPW6YCSWaDZrtye4qNdRXtIf5Mrs/edit#slide=id.p)
+:arrow_right_hook: [Présentation du bilan de mi-mandat (2023)](https://docs.google.com/presentation/d/1b98msRwNHuEOHK_aPW6YCSWaDZrtye4qNdRXtIf5Mrs/edit#slide=id.p)
 
 
 **Mots-clés :** Fabriques et usages cartographiques, (géo)visualisation, interaction, information spatiale, sémiologiebr
@@ -18,11 +18,18 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 ### 📆 Actualités de l'AR
 
-> **4 octobre 2024 (Champs-sur-Marne, Campus Descartes)** </br>
+> **4 octobre 2024 (Champs-sur-Marne) : JE 2025 de l'AR9** </br>
 
-Journée d'études **Géovisualisations : Interfaces et Interactions**.<br>
+Journée d'études de l'AR9 **Géovisualisations : Interfaces et Interactions**.<br>
 Porteurs : Étienne CÔME et Robin CURA pour l'AR9magis </br>
 :arrow_forward: [Voir l'appel à communications](https://framaforms.org/journee-detude-ar9-interactions-interfaces-1716379792)
+</br></br>
+
+> **19-21 mai 2025 (Avignon) : École thématique et SAGÉO 2025** </br>
+
+Co-organisation de l'**[École méthodologique de printemps](https://sageo2025.sciencesconf.org/resource/page/id/2)**, **École thématique CNRS** (Sciences Informatiques & Sciences de l'Homme et de la Société) du Groupement de Recherche Méthodes et Applications pour la Géomatique et l'Information Spatiale (MAGIS).
+
+Avec Avignon Université et les Actions de recherche [Information géographique volontaire et crowdsourcing [AR02]](https://gdr-magis.cnrs.fr/ar02-information-geographique-volontaire-et-crowdsourcing/), [Mobilités et impacts socio-environnementaux [AR06]](https://gdr-magis.cnrs.fr/mobilites-et-impacts-socio-environnementaux/) et [Géomatique, Ville, Climat et Pollution [AR12]](https://gdr-magis.cnrs.fr/ar12-geomatique-ville-climat-et-pollution/). <br>
 
 <br><br>
 ### 👩‍💻 Webinaires Cartes Blanches
