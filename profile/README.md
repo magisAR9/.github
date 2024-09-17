@@ -15,7 +15,6 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 <br><br>
 
-
 ### 📆 Actualités de l'AR
 
 > **4 octobre 2024 (Champs-sur-Marne) : JE 2025 de l'AR9** </br>
@@ -38,15 +37,14 @@ Avec Avignon Université et les Actions de recherche [Information géographique 
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 :arrow_forward: **Prochaine séance :**
-* septembre 2024 : **Lucas DESTREM** (à confirmer) (animation Boris MERICSKAY) </br>  </br> 
+* 24 septembre 2024 : **Matthieu Viry** [_Magrit Nouvelle version](https://magrit.cnrs.fr/). (animation Nicolas Lambert)
 
 :calendar: **Séances à venir**
-
-* 15 octobre 2024 : **Jean-Marc VIGLINO**, Ingénieur IGN, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html) (animation Françoise BAHOKEN)
+* 02 octobre 2024 : **Lucas DESTREM** [_Geographisme](https://www.lucasdestrem.com/). (animation Boris MERICSKAY) </br>
+* 15 octobre 2024 : **Jean-Marc VIGLINO**, Ingénieur IGN, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html) (animation Françoise BAHOKEN)</br>
 
 [Espace des Webinaires Cartes Blanches](https://magisar9.github.io/webinaires/) pour découvrir l'ensemble des séances passées et à venir.</br>
 
- <br>
 
 ### 📚 Journées d'études et sessions de colloques passées
 
