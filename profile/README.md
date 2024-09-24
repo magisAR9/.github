@@ -47,7 +47,8 @@ L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanc
 :calendar: **Séances à venir**
 * 15 octobre 2024 : **Jean-Marc VIGLINO**, Ingénieur IGN, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html) (animation Françoise BAHOKEN)</br>
 
-[Espace des Webinaires Cartes Blanches](https://magisar9.github.io/webinaires/) pour découvrir l'ensemble des séances passées et à venir.</br>
+:books: **Espace des Webinaires Cartes Blanche**
+[Page avec les contenus des Webinaires Cartes Blanches](https://magisar9.github.io/webinaires/) pour découvrir l'ensemble des séances passées et à venir.</br>
 
 
 <br>
