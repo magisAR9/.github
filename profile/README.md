@@ -3,6 +3,7 @@
 <br/>
 
 ### 📋 Projet de l'action de recherche
+<hr>
 
 L'objectif général de cette action de recherche du GDR MAGIS est de fédérer des réflexions et des travaux scientifiques d’origines disciplinaires variées menés autour de la **(carto)graphie contemporaine au sens large et de la (géo)visualisation de données**. Pour ce faire, elle propose d’une part, de mener une veille théorique, méthodologique et technique sur les modalités de la fabrique des cartes et, d’autre part, de fédérer et d’animer une communauté de chercheurs (essentiellement géographes, géomaticiens, cartographes, informaticiens...) lors d’ateliers et de séminaires thématiques et méthodologiques. [Lire le projet.](https://magisar9.github.io/project/)
 
@@ -16,6 +17,7 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 <br/><br/>
 
 ### 📆 Actualités de l'AR
+<hr>
 
 > **4 octobre 2024 (Université Gustave Eiffel, Champs-sur-Marne) : JE 2025 de l'AR9** <br />
 
@@ -35,6 +37,7 @@ Avec Avignon Université et les Actions de recherche [Information géographique 
 
 
 ### 👩‍💻 Webinaires Cartes Blanches
+<hr>
 
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
@@ -50,6 +53,7 @@ L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanc
 <br><br>
 
 ### 📚 Journées d'études et sessions de colloques passées
+<hr>
 
 * 16 novembre 2023 (Aubervilliers, campus Condorcet, Paris). **Session L/N : Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques : enjeux sociaux, techniques et méthodologiques** [Programme](https://github.com/magisAR9/CIST2023/blob/main/README.md), Colloque du [CIST 2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/). Session portée par Françoise BAHOKEN, Étienne CÔME et Boris MERICSKAY, en collaboration avec Sylvestre Duroudier, Julie Fen-Chong et Françoise Lucchini. </br> 
 * 5 juin 2023 (Laval, Québec) **Articulation de différents environnements de développement de géo-visualisations autour de Quarto**, colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/). Session coordonnée par Nicolas LAMBERT pour l'AR9magis ;
