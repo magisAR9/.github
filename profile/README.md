@@ -25,7 +25,7 @@ Porteurs : Étienne CÔME et Robin CURA </br>
 :arrow_forward: [Voir l'appel à communications](https://framaforms.org/journee-detude-ar9-interactions-interfaces-1716379792)
 <br/><br/>
 
-> **19-21 mai 2025 (Avignon) : École thématique et conférence SAGÉO 2025** : *[La science de l'information dans tous sees états](https://sageo2025.sciencesconf.org/)* </br>
+> **19-21 mai 2025 (Avignon) : École thématique et conférence SAGÉO 2025** : **[La semaine des Sciences de l'Information Géographique du GdR MAGIS](https://sageo2025.sciencesconf.org/)**. *La Science de l'Information Géographique dans tous ses états*</br>
 
 Co-organisation de l'**[École méthodologique de printemps](https://sageo2025.sciencesconf.org/resource/page/id/2)**, **École thématique** soutenue par le CNRS (Intituts Sciences informatiques & Sciences humaine & sociales) du Groupement de Recherche Méthodes et Applications pour la Géomatique et l'Information Spatiale ([MAGIS](://gdr-magis.cnrs.fr)).
 
@@ -37,10 +37,10 @@ Avec Avignon Université et les Actions de recherche [Information géographique 
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 :arrow_forward: **Prochaine séance :**
-* 24 septembre 2024 : **Matthieu Viry** [_Magrit Nouvelle version](https://magrit.cnrs.fr/). (animation Nicolas Lambert)
+* 24 septembre 2024 : **Matthieu Viry** *[Magrit Nouvelle version]([https://magrit.cnrs.fr/](https://magisar9.github.io/webinaires/cartogeoviz17-viry.html)* (animation Nicolas Lambert)
 
 :calendar: **Séances à venir**
-* 02 octobre 2024 : **Lucas DESTREM** [_Geographisme](https://www.lucasdestrem.com/). (animation Boris MERICSKAY) </br>
+* 02 octobre 2024 : **Lucas DESTREM** [Geographisme](https://www.lucasdestrem.com/). (animation Boris MERICSKAY) </br>
 * 15 octobre 2024 : **Jean-Marc VIGLINO**, Ingénieur IGN, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html) (animation Françoise BAHOKEN)</br>
 
 [Espace des Webinaires Cartes Blanches](https://magisar9.github.io/webinaires/) pour découvrir l'ensemble des séances passées et à venir.</br>
