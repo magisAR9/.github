@@ -37,7 +37,7 @@ Avec Avignon Université et les Actions de recherche [Information géographique 
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 :arrow_forward: **Prochaine séance :**
-* 02 octobre 2024 : **Lucas DESTREM** [Expérimentations cartographiques ](https://github.com/magisAR9/webinaires/edit/main/cartogeoviz7-LucasDestrem.md) / (animation Boris MERICSKAY)
+* 02 octobre 2024 : **Lucas DESTREM** [Expérimentations cartographiques ](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-LucasDestrem.md) / (animation Boris MERICSKAY)
 
 :calendar: **Séances à venir**
 * 15 octobre 2024 : **Jean-Marc VIGLINO**, Ingénieur IGN, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html) (animation Françoise BAHOKEN)</br>
