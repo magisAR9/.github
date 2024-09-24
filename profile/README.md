@@ -36,7 +36,7 @@ Avec Avignon Université et les Actions de recherche [Information géographique 
 <br>
 
 
-### 👩‍💻 Webinaires Cartes Blanches
+### 👩‍💻 Webinaires "Cartes Blanches"
 <hr>
 
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
