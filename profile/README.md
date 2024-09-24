@@ -32,6 +32,8 @@ Co-organisation de l'**[École méthodologique de printemps](https://sageo2025.s
 Avec Avignon Université et les Actions de recherche [Information géographique volontaire et crowdsourcing [AR02]](https://gdr-magis.cnrs.fr/ar02-information-geographique-volontaire-et-crowdsourcing/), [Mobilités et impacts socio-environnementaux [AR06]](https://gdr-magis.cnrs.fr/mobilites-et-impacts-socio-environnementaux/) et [Géomatique, Ville, Climat et Pollution [AR12]](https://gdr-magis.cnrs.fr/ar12-geomatique-ville-climat-et-pollution/). <br>
 
 <br><br>
+
+
 ### 👩‍💻 Webinaires Cartes Blanches
 
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
@@ -44,6 +46,8 @@ L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanc
 
 [Espace des Webinaires Cartes Blanches](https://magisar9.github.io/webinaires/) pour découvrir l'ensemble des séances passées et à venir.</br>
 
+
+<br><br>
 
 ### 📚 Journées d'études et sessions de colloques passées
 
