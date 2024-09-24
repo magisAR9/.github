@@ -19,7 +19,7 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 > **4 octobre 2024 (Université Gustave Eiffel, Champs-sur-Marne) : JE 2025 de l'AR9** <br />
 
-Journée d'études de l'AR9 ** *Géovisualisations : Interfaces et Interactions* **.<br />
+Journée d'études de l'AR9 *Géovisualisations : Interfaces et Interactions*.<br />
 Porteurs : Étienne CÔME et Robin CURA </br>
 :arrow_forward: **[Inscription à la journée](https://framaforms.org/inscription-a-la-journee-detude-geovisualisations-interfaces-interactions-de-lar9-du-gdr-magis)** </br>
 :arrow_forward: [Voir l'appel à communications](https://framaforms.org/journee-detude-ar9-interactions-interfaces-1716379792)
