@@ -1,6 +1,6 @@
 ![alt text](https://raw.githubusercontent.com/magisAR9/.github/main/profile/AR9visuelok.JPG)
 
-<br>
+<br/>
 
 ### 📋 Projet de l'action de recherche
 
@@ -11,23 +11,23 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 :arrow_right_hook: [Présentation du bilan de mi-mandat (2023)](https://docs.google.com/presentation/d/1b98msRwNHuEOHK_aPW6YCSWaDZrtye4qNdRXtIf5Mrs/edit#slide=id.p)
 
 
-**Mots-clés :** Fabriques et usages cartographiques, (géo)visualisation, interaction, information spatiale, sémiologiebr
+**Mots-clés :** Fabriques et usages cartographiques, (géo)visualisation, interaction, information spatiale, sémiologie
 
-<br><br>
+<br/><br/>
 
 ### 📆 Actualités de l'AR
 
-> **4 octobre 2024 (Champs-sur-Marne) : JE 2025 de l'AR9** </br>
+> **4 octobre 2024 (Université Gustave Eiffel, Champs-sur-Marne) : JE 2025 de l'AR9** <br />
 
-Journée d'études de l'AR9 **Géovisualisations : Interfaces et Interactions**.<br>
-Porteurs : Étienne CÔME et Robin CURA pour l'AR9magis </br>
+Journée d'études de l'AR9 ** *Géovisualisations : Interfaces et Interactions* **.<br />
+Porteurs : Étienne CÔME et Robin CURA </br>
 :arrow_forward: **[Inscription à la journée](https://framaforms.org/inscription-a-la-journee-detude-geovisualisations-interfaces-interactions-de-lar9-du-gdr-magis)** </br>
 :arrow_forward: [Voir l'appel à communications](https://framaforms.org/journee-detude-ar9-interactions-interfaces-1716379792)
-</br></br>
+<br/><br/>
 
-> **19-21 mai 2025 (Avignon) : École thématique et SAGÉO 2025** </br>
+> **19-21 mai 2025 (Avignon) : École thématique et conférence SAGÉO 2025** : *[La science de l'information dans tous sees états](https://sageo2025.sciencesconf.org/)* </br>
 
-Co-organisation de l'**[École méthodologique de printemps](https://sageo2025.sciencesconf.org/resource/page/id/2)**, **École thématique CNRS** (Sciences Informatiques & Sciences de l'Homme et de la Société) du Groupement de Recherche Méthodes et Applications pour la Géomatique et l'Information Spatiale (MAGIS).
+Co-organisation de l'**[École méthodologique de printemps](https://sageo2025.sciencesconf.org/resource/page/id/2)**, **École thématique** soutenue par le CNRS (Intituts Sciences informatiques & Sciences humaine & sociales) du Groupement de Recherche Méthodes et Applications pour la Géomatique et l'Information Spatiale ([MAGIS](://gdr-magis.cnrs.fr)).
 
 Avec Avignon Université et les Actions de recherche [Information géographique volontaire et crowdsourcing [AR02]](https://gdr-magis.cnrs.fr/ar02-information-geographique-volontaire-et-crowdsourcing/), [Mobilités et impacts socio-environnementaux [AR06]](https://gdr-magis.cnrs.fr/mobilites-et-impacts-socio-environnementaux/) et [Géomatique, Ville, Climat et Pollution [AR12]](https://gdr-magis.cnrs.fr/ar12-geomatique-ville-climat-et-pollution/). <br>
 
