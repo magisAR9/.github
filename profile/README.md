@@ -20,17 +20,13 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 <hr>
 
 > **4 octobre 2024 (Université Gustave Eiffel, Champs-sur-Marne) : JE 2025 de l'AR9** <br />
-
-Journée d'études de l'AR9 *Géovisualisations : Interfaces et Interactions*.<br />
-Porteurs : Étienne CÔME et Robin CURA </br>
-:arrow_forward: **[Inscription à la journée](https://framaforms.org/inscription-a-la-journee-detude-geovisualisations-interfaces-interactions-de-lar9-du-gdr-magis)** </br>
-:arrow_forward: [Voir l'appel à communications](https://framaforms.org/journee-detude-ar9-interactions-interfaces-1716379792)
+:arrow_forward: Journée d'études de l'AR9 **[Géovisualisations : Interfaces et Interactions](https://github.com/magisAR9/JE_Interactions)**.<br />
+Porteurs : Étienne CÔME et Robin CURA </br>[
+revoir l'appel à communications](https://framaforms.org/journee-detude-ar9-interactions-interfaces-1716379792)
 <br/><br/>
 
 > **19-21 mai 2025 (Avignon) : École thématique et conférence SAGÉO 2025** : **[La semaine des Sciences de l'Information Géographique du GdR MAGIS](https://sageo2025.sciencesconf.org/)**. *La Science de l'Information Géographique dans tous ses états*</br>
-
-Co-organisation de l'**[École méthodologique de printemps](https://sageo2025.sciencesconf.org/resource/page/id/2)**, **École thématique** soutenue par le CNRS (Intituts Sciences informatiques & Sciences humaine & sociales) du Groupement de Recherche Méthodes et Applications pour la Géomatique et l'Information Spatiale ([MAGIS](://gdr-magis.cnrs.fr)).
-
+Co-organisation de l'**[École méthodologique de printemps](https://sageo2025.sciencesconf.org/resource/page/id/2)**, **École thématique** soutenue par le CNRS (Intituts Sciences informatiques & Sciences humaine & sociales) du ([GdR MAGIS](://gdr-magis.cnrs.fr)).
 Avec Avignon Université et les Actions de recherche [Information géographique volontaire et crowdsourcing [AR02]](https://gdr-magis.cnrs.fr/ar02-information-geographique-volontaire-et-crowdsourcing/), [Mobilités et impacts socio-environnementaux [AR06]](https://gdr-magis.cnrs.fr/mobilites-et-impacts-socio-environnementaux/) et [Géomatique, Ville, Climat et Pollution [AR12]](https://gdr-magis.cnrs.fr/ar12-geomatique-ville-climat-et-pollution/). <br>
 
 <br>
