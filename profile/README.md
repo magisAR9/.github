@@ -19,12 +19,6 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 ### 📆 Actualités de l'AR
 <hr>
 
-> **4 octobre 2024 (Université Gustave Eiffel, Champs-sur-Marne) : JE 2025 de l'AR9** <br />
-:arrow_forward: Journée d'études de l'AR9 **[Géovisualisations : Interfaces et Interactions](https://magisar9.github.io/JE_Interactions/)**.<br />
-Porteurs : Étienne CÔME et Robin CURA </br>[
-revoir l'appel à communications](https://framaforms.org/journee-detude-ar9-interactions-interfaces-1716379792)
-<br/><br/>
-
 > **19-21 mai 2025 (Avignon) : École thématique et conférence SAGÉO 2025** : **[La semaine des Sciences de l'Information Géographique du GdR MAGIS](https://sageo2025.sciencesconf.org/)**. *La Science de l'Information Géographique dans tous ses états*</br>
 Co-organisation de l'**[École méthodologique de printemps](https://sageo2025.sciencesconf.org/resource/page/id/2)**, **École thématique** soutenue par le CNRS (Intituts Sciences informatiques & Sciences humaine & sociales) du ([GdR MAGIS](://gdr-magis.cnrs.fr)).
 Avec Avignon Université et les Actions de recherche [Information géographique volontaire et crowdsourcing [AR02]](https://gdr-magis.cnrs.fr/ar02-information-geographique-volontaire-et-crowdsourcing/), [Mobilités et impacts socio-environnementaux [AR06]](https://gdr-magis.cnrs.fr/mobilites-et-impacts-socio-environnementaux/) et [Géomatique, Ville, Climat et Pollution [AR12]](https://gdr-magis.cnrs.fr/ar12-geomatique-ville-climat-et-pollution/). <br>
@@ -35,20 +29,19 @@ Avec Avignon Université et les Actions de recherche [Information géographique 
 ### 👩‍💻 Webinaires "Cartes Blanches"
 <hr>
 
-L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. Pour découvrir l'ensemble des séances passées et à venir vous pouvez consulter la :books: [page avec tous les contenus des Webinaires](https://magisar9.github.io/webinaires/) .
+L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. Pour découvrir l'ensemble des séances passées et à venir, vous pouvez consulter la :books: [page avec tous les contenus des Webinaires](https://magisar9.github.io/webinaires/).
 
 :arrow_forward: **Prochaine séance :**
-* 02 octobre 2024 : **Lucas DESTREM** [Expérimentations cartographiques ](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-LucasDestrem.md) / (animation Boris MERICSKAY)
+* Carte Blanche #19 - 15 octobre 2024 : **Jean-Marc VIGLINO**, Ingénieur IGN, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html) (animation Françoise BAHOKEN)</br>
 
 :calendar: **Séances à venir**
-* 15 octobre 2024 : **Jean-Marc VIGLINO**, Ingénieur IGN, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html) (animation Françoise BAHOKEN)</br>
+* Carte Blanche #20 - 12 novembre 2024 : **Ronan YSEBAERT**, Ingénieur Univ. Paris Cité, [Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives](https://magisar9.github.io/webinaires/cartogeoviz19-ysebaert.html), Univ. Paris Cité/UAR RIATE. (animation Françoise BAHOKEN) 
 
-
-<br>
 
 ### 📚 Journées d'études et sessions de colloques passées
 <hr>
 
+* 4 octobre 2024 (Université Gustave Eiffel, Champs-sur-Marne) : Journée d'études de l'AR9 **[Géovisualisations : Interfaces et Interactions](https://magisar9.github.io/JE_Interactions/)**, portée par Étienne CÔME et Robin CURA.
 * 16 novembre 2023 (Aubervilliers, campus Condorcet, Paris). **Session L/N : Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques : enjeux sociaux, techniques et méthodologiques** [Programme](https://github.com/magisAR9/CIST2023/blob/main/README.md), Colloque du [CIST 2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/). Session portée par Françoise BAHOKEN, Étienne CÔME et Boris MERICSKAY, en collaboration avec Sylvestre Duroudier, Julie Fen-Chong et Françoise Lucchini. </br> 
 * 5 juin 2023 (Laval, Québec) **Articulation de différents environnements de développement de géo-visualisations autour de Quarto**, colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/). Session coordonnée par Nicolas LAMBERT pour l'AR9magis ;
 * 5 juin 2023 (Laval, Québec)  **Géographies numériques et approches sensibles de l’espace**, colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/). Session coordonnée par Claire CUNTY (UMR EVS), et inscrite à la fois dans notre AR9 _(Carto)graphies et (Géo)visualisations de données_ et dans l'AR14 _Information géographique critique_.</br> 
