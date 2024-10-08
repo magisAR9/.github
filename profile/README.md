@@ -32,20 +32,20 @@ Avec Avignon Université et les Actions de recherche [Information géographique 
 L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. Pour découvrir l'ensemble des séances passées et à venir, vous pouvez consulter la :books: [page avec tous les contenus des Webinaires](https://magisar9.github.io/webinaires/).
 
 :arrow_forward: **Prochaine séance :**
-* Carte Blanche #19 - 15 octobre 2024 : **Jean-Marc VIGLINO**, Ingénieur IGN, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html) (animation Françoise BAHOKEN)</br>
+* Carte blanche #19 - 15 octobre 2024 : **Jean-Marc VIGLINO**, Ingénieur IGN, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html) (animation Françoise BAHOKEN)</br>
 
-:calendar: **Séances à venir**
-* Carte Blanche #20 - 12 novembre 2024 : **Ronan YSEBAERT**, Ingénieur Univ. Paris Cité, [Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives](https://magisar9.github.io/webinaires/cartogeoviz19-ysebaert.html), Univ. Paris Cité/UAR RIATE. (animation Françoise BAHOKEN) 
+:calendar: **Séance à venir**
+* Carte blanche #20 - 12 novembre 2024 : **Ronan YSEBAERT**, Ingénieur Univ. Paris Cité, [Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives](https://magisar9.github.io/webinaires/cartogeoviz19-ysebaert.html), Univ. Paris Cité/UAR RIATE. (animation Françoise BAHOKEN) 
 
 
 ### 📚 Journées d'études et sessions de colloques passées
 <hr>
 
 * 4 octobre 2024 (Université Gustave Eiffel, Champs-sur-Marne) : Journée d'études de l'AR9 **[Géovisualisations : Interfaces et Interactions](https://magisar9.github.io/JE_Interactions/)**, portée par Étienne CÔME et Robin CURA.
-* 16 novembre 2023 (Aubervilliers, campus Condorcet, Paris). **Session L/N : Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques : enjeux sociaux, techniques et méthodologiques** [Programme](https://github.com/magisAR9/CIST2023/blob/main/README.md), Colloque du [CIST 2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/). Session portée par Françoise BAHOKEN, Étienne CÔME et Boris MERICSKAY, en collaboration avec Sylvestre Duroudier, Julie Fen-Chong et Françoise Lucchini. </br> 
+* 16 novembre 2023 (Aubervilliers, campus Condorcet, Paris). **Session L/N : Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques : enjeux sociaux, techniques et méthodologiques** [Programme](https://github.com/magisAR9/CIST2023/blob/main/README.md), Colloque du [CIST 2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/). Session portée par Françoise BAHOKEN, Étienne CÔME et Boris MERICSKAY pour l'AR9magis, en collaboration avec Sylvestre DUROUDIER, Julie FEN-CHONG et Françoise LUCCHINI (pour l'axe CIST/INFTER) </br> 
 * 5 juin 2023 (Laval, Québec) **Articulation de différents environnements de développement de géo-visualisations autour de Quarto**, colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/). Session coordonnée par Nicolas LAMBERT pour l'AR9magis ;
 * 5 juin 2023 (Laval, Québec)  **Géographies numériques et approches sensibles de l’espace**, colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/). Session coordonnée par Claire CUNTY (UMR EVS), et inscrite à la fois dans notre AR9 _(Carto)graphies et (Géo)visualisations de données_ et dans l'AR14 _Information géographique critique_.</br> 
-* 6 janvier 2023 (Rennes) : **La boîte à outils de cartographie et de géovisualisation de données : regards croisés de chercheurs** [(informations)](https://github.com/magisAR9/JEGeovizRennes). </br>
+* 6 janvier 2023 (Rennes) : **La boîte à outils de cartographie et de géovisualisation de données : regards croisés de chercheurs** [(informations)](https://github.com/magisAR9/JEGeovizRennes). Journée coordonnée par Boris MERICSKAY pour l'AR9magis </br>
 
 
 <br>
