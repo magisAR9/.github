@@ -29,14 +29,15 @@ Avec Avignon Université et les Actions de recherche [Information géographique 
 ### 👩‍💻 Webinaires "Cartes Blanches"
 <hr>
 
-L'AR9 propose une série de webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. Pour découvrir l'ensemble des séances passées et à venir, vous pouvez consulter la :books: [page avec tous les contenus des webinaires](https://magisar9.github.io/webinaires/).
+L'AR9 propose une série de webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 :arrow_forward: **Prochaine séance :**
-* Carte blanche #19 - 15 octobre 2024 : **Jean-Marc VIGLINO**, Ingénieur IGN, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html) (animation Françoise BAHOKEN)<br />
+* Carte blanche #20 - 12 novembre 2024 : **Ronan YSEBAERT**, Ingénieur Univ. Paris Cité, [Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives](https://magisar9.github.io/webinaires/cartogeoviz19-ysebaert.html), Univ. Paris Cité/UAR RIATE. (animation Anne-Christine BRONNER) 
 
 :calendar: **Séance à venir**
-* Carte blanche #20 - 12 novembre 2024 : **Ronan YSEBAERT**, Ingénieur Univ. Paris Cité, [Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives](https://magisar9.github.io/webinaires/cartogeoviz19-ysebaert.html), Univ. Paris Cité/UAR RIATE. (animation Françoise BAHOKEN) 
+* _en cours de programmation_
 
+:books: [Page des webinaires Carte Blanche](https://magisar9.github.io/webinaires/).
 
 ### 📚 Journées d'études et sessions de colloques passées
 <hr>
