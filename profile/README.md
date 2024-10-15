@@ -9,7 +9,7 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 :arrow_right_hook: [Présentation lors des assises du GdR (2022)](https://docs.google.com/presentation/d/1vMbVFTlbGGtZzkIO2-XujwNUK82SWf_EGzqYgBKjX0E/edit#slide=id.p)
 
-:arrow_right_hook: [Présentation du bilan de mi-mandat (2023)](https://docs.google.com/presentation/d/1b98msRwNHuEOHK_aPW6YCSWaDZrtye4qNdRXtIf5Mrs/edit#slide=id.p)
+:arrow_right_hook: [Présentation du bilan 2023](https://docs.google.com/presentation/d/1b98msRwNHuEOHK_aPW6YCSWaDZrtye4qNdRXtIf5Mrs/edit#slide=id.p)
 
 
 **Mots-clés :** Fabriques et usages cartographiques, (géo)visualisation, interaction, information spatiale, sémiologie
@@ -19,20 +19,20 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 ### 📆 Actualités de l'AR
 <hr>
 
-> **19-21 mai 2025 (Avignon) : École thématique et conférence SAGÉO 2025** : **[La semaine des Sciences de l'Information Géographique du GdR MAGIS](https://sageo2025.sciencesconf.org/)**. *La Science de l'Information Géographique dans tous ses états*</br>
-Co-organisation de l'**[École méthodologique de printemps](https://sageo2025.sciencesconf.org/resource/page/id/2)**, **École thématique** soutenue par le CNRS (Intituts Sciences informatiques & Sciences humaine & sociales) du ([GdR MAGIS](://gdr-magis.cnrs.fr)).
+> **19-21 mai 2025 (Avignon) : École thématique et conférence SAGÉO 2025** : **[La semaine des Sciences de l'Information Géographique du GdR MAGIS](https://sageo2025.sciencesconf.org/)**. *La Science de l'Information Géographique dans tous ses états*.<br />
+Co-organisation de l'**[École de printemps](https://sageo2025.sciencesconf.org/resource/page/id/2)**, **École thématique** soutenue par le CNRS (Intituts Sciences informatiques & Sciences humaine & sociales) du ([GdR MAGIS](://gdr-magis.cnrs.fr)).
 Avec Avignon Université et les Actions de recherche [Information géographique volontaire et crowdsourcing [AR02]](https://gdr-magis.cnrs.fr/ar02-information-geographique-volontaire-et-crowdsourcing/), [Mobilités et impacts socio-environnementaux [AR06]](https://gdr-magis.cnrs.fr/mobilites-et-impacts-socio-environnementaux/) et [Géomatique, Ville, Climat et Pollution [AR12]](https://gdr-magis.cnrs.fr/ar12-geomatique-ville-climat-et-pollution/). <br>
 
-<br>
+<br />
 
 
 ### 👩‍💻 Webinaires "Cartes Blanches"
 <hr>
 
-L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. Pour découvrir l'ensemble des séances passées et à venir, vous pouvez consulter la :books: [page avec tous les contenus des Webinaires](https://magisar9.github.io/webinaires/).
+L'AR9 propose une série de webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. Pour découvrir l'ensemble des séances passées et à venir, vous pouvez consulter la :books: [page avec tous les contenus des webinaires](https://magisar9.github.io/webinaires/).
 
 :arrow_forward: **Prochaine séance :**
-* Carte blanche #19 - 15 octobre 2024 : **Jean-Marc VIGLINO**, Ingénieur IGN, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html) (animation Françoise BAHOKEN)</br>
+* Carte blanche #19 - 15 octobre 2024 : **Jean-Marc VIGLINO**, Ingénieur IGN, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html) (animation Françoise BAHOKEN)<br />
 
 :calendar: **Séance à venir**
 * Carte blanche #20 - 12 novembre 2024 : **Ronan YSEBAERT**, Ingénieur Univ. Paris Cité, [Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives](https://magisar9.github.io/webinaires/cartogeoviz19-ysebaert.html), Univ. Paris Cité/UAR RIATE. (animation Françoise BAHOKEN) 
@@ -52,7 +52,7 @@ L'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanc
 
 ### 🌈 Participer à l'AR9magis
 -Ecrivez à [Boris](mailto:boris.mericskay@univ-rennes2.fr) et/ou à [Nicolas](mailto:nicolas.lambert@cnrs.fr) pour participer. </br>
--Inscrivez-vous à la liste de diffusion [cartogeoviz](http://listes.ifsttar.fr/wws/info/cartogeoviz-magis) ou contactez [Françoise](mailto:francoise.bahoken@univ-eiffel.fr) en cas de besoins.
+-Inscrivez-vous à la liste de diffusion [cartogeoviz](http://listes.ifsttar.fr/wws/info/cartogeoviz-magis) ou contactez [Françoise](mailto:francoise.bahoken@univ-eiffel.fr) en cas de besoin.
 
 
 <br>
