@@ -32,7 +32,7 @@ Avec Avignon Université et les Actions de recherche [Information géographique 
 L'AR9 propose une série de webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 :arrow_forward: **Prochaine séance :**
-* Carte blanche #20 - 12 novembre 2024 : **Ronan YSEBAERT**, Ingénieur Univ. Paris Cité, [Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives](https://magisar9.github.io/webinaires/cartogeoviz19-ysebaert.html), Univ. Paris Cité/UAR RIATE. (animation Anne-Christine BRONNER) 
+* _en cours de programmation_
 
 :calendar: **Séance à venir**
 * _en cours de programmation_
