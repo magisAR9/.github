@@ -19,9 +19,6 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 ### 📆 Actualités de l'AR
 <hr>
 
-> **19-21 mai 2025 (Avignon) : École thématique et conférence SAGÉO 2025** : **[La semaine des Sciences de l'Information Géographique du GdR MAGIS](https://sageo2025.sciencesconf.org/)**. *La Science de l'Information Géographique dans tous ses états*.<br />
-Co-organisation de l'**[École de printemps](https://sageo2025.sciencesconf.org/resource/page/id/2)**, **École thématique** soutenue par le CNRS (Intituts Sciences informatiques & Sciences humaine & sociales) du ([GdR MAGIS](://gdr-magis.cnrs.fr)).
-Avec Avignon Université et les Actions de recherche [Information géographique volontaire et crowdsourcing [AR02]](https://gdr-magis.cnrs.fr/ar02-information-geographique-volontaire-et-crowdsourcing/), [Mobilités et impacts socio-environnementaux [AR06]](https://gdr-magis.cnrs.fr/mobilites-et-impacts-socio-environnementaux/) et [Géomatique, Ville, Climat et Pollution [AR12]](https://gdr-magis.cnrs.fr/ar12-geomatique-ville-climat-et-pollution/). <br>
 
 <br />
 
@@ -42,6 +39,7 @@ L'AR9 propose une série de webinaires mensuels sous la forme d'une "Carte blanc
 ### 📚 Journées d'études et sessions de colloques passées
 <hr>
 
+* 19-21 mai 2025 (Université d'Avignon) : Cours magistral et Travaux Pratiques de l'AR09 : **[Géovisualiser pour explorer la robustesse des données - Explorer la robustesse des géovisualisations](https://github.com/magisAR9/EcoleMAGIS)**, présentés lors de l'École thématique méthodologique du CNRS **[Robustesse](https://et-magis2025.sciencesconf.org/)**, organisée par l'AR9 avec l'[AR02 : Information géographique volontaire et crowdsourcing](https://gdr-magis.cnrs.fr/ar02-information-geographique-volontaire-et-crowdsourcing/), l'[AR 06 : Mobilités et impacts socio-environnementaux](https://gdr-magis.cnrs.fr/mobilites-et-impacts-socio-environnementaux/) et l'[AR 012 : Géomatique, Ville, Climat et Pollution](https://gdr-magis.cnrs.fr/ar12-geomatique-ville-climat-et-pollution/), dans le cadre de la **Semaine de l'information géographique** coordonnée par Didier JOSSELIN. 
 * 4 octobre 2024 (Université Gustave Eiffel, Champs-sur-Marne) : Journée d'études de l'AR9 **[Géovisualisations : Interfaces et Interactions](https://magisar9.github.io/JE_Interactions/)**, portée par Étienne CÔME et Robin CURA.
 * 16 novembre 2023 (Aubervilliers, campus Condorcet, Paris). **Session L/N : Comprendre, géovisualiser et enseigner les territoires à partir de savoirs et de données géographiques : enjeux sociaux, techniques et méthodologiques** [Programme](https://github.com/magisAR9/CIST2023/blob/main/README.md), Colloque du [CIST 2023 : Apprendre des territoires](https://cist2023.sciencesconf.org/). Session portée par Françoise BAHOKEN, Étienne CÔME et Boris MERICSKAY pour l'AR9magis, en collaboration avec Sylvestre DUROUDIER, Julie FEN-CHONG et Françoise LUCCHINI (pour l'axe CIST/INFTER) </br> 
 * 5 juin 2023 (Laval, Québec) **Articulation de différents environnements de développement de géo-visualisations autour de Quarto**, colloque [SAGEO'2023](https://crdig.ulaval.ca/sageo2023/). Session coordonnée par Nicolas LAMBERT pour l'AR9magis ;
