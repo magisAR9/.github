@@ -19,8 +19,10 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 ### 📆 Actualités de l'AR
 <hr>
 
-**Assises 2025 de MAGIS** : 25-27 novembre 2025 à lEcole normale supérieure (ENS) de Lyon.
+**Journée d'Etudes de RETICULAR : "ESPACE & INTERACTION"** : 14 novembre 2025, à Géodata Paris (ex. ENSG). Campus Descartes, Champs-sur-Marne. </br> 
+Une JE soutenue par l'AR9MAGIS. Entrée libre sur inscription
 
+**Assises 2025 de MAGIS** : 25-27 novembre 2025 à l'Ecole normale supérieure (ENS) de Lyon
 <br />
 
 
@@ -30,7 +32,7 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 L'AR9 propose une série de webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 
 :arrow_forward: **Prochaine séance :**
-* _en cours de programmation_
+* 02 décembre 2025 : [Cartabl](https://atlas-bleu.cnrs.fr/presentation-cartabl/)
 
 :calendar: **Séance à venir**
 * _en cours de programmation_
