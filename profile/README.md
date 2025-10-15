@@ -19,10 +19,12 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 ### 📆 Actualités de l'AR
 <hr>
 
-**Journée d'Etudes de RETICULAR : "ESPACE & INTERACTION"** : 14 novembre 2025, à Géodata Paris (ex. ENSG). Campus Descartes, Champs-sur-Marne. </br> 
-Une JE soutenue par l'AR9MAGIS. Entrée libre sur inscription
+- **Journée d'Etudes "ESPACE & INTERACTION"** : 14 novembre 2025, à Géodata Paris (ex. ENSG). </br>
+9h30-16h30, Campus Descartes, Champs-sur-Marne. </br> 
+Une JE soutenue par l'AR9MAGIS, organisée par l'animation scientifique RETICULAR portée par l'Université Gustave Eiffel (Françoise BAHOKEN, Etienne CÔME et Lionel VILLARD) en collaboration avec l'UMR Géographie-cité (Marion MAISONOBE) </br>
+Entrée libre, [sur inscription](https://framaforms.org/journee-detude-espace-interactions-1759841620)
 
-**Assises 2025 de MAGIS** : 25-27 novembre 2025 à l'Ecole normale supérieure (ENS) de Lyon
+- **Assises 2025 de MAGIS** : 25-27 novembre 2025 à l'Ecole normale supérieure (ENS) de Lyon
 <br />
 
 
