@@ -31,11 +31,14 @@ Entrée libre, [sur inscription](https://framaforms.org/journee-detude-espace-in
 ### 👩‍💻 Webinaires "Cartes Blanches"
 <hr>
 L'AR9 propose une série de webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
+<br/> <br/> 
 
-:arrow_forward: **Prochaine séance :**
+:arrow_forward:  **Prochaine séance :**
 * 19 novembre 2025 : Lucile Pillot, Ingénieure d'etudes, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _titre à venir_, animation : Fançoise BAHOKEN
-  
+<br/> 
+
 :books: [Page des webinaires Carte Blanche](https://magisar9.github.io/webinaires/).
+
 
 ### 📚 Journées d'études et sessions de colloques passées
 <hr>
