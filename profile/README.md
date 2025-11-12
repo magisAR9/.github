@@ -19,23 +19,26 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 ### 📆 Actualités de l'AR
 <hr>
 
-- **Journée d'Etudes "ESPACE & INTERACTION"** : 14 novembre 2025, à Géodata Paris (ex. ENSG). </br>
+- **Journée d'Etudes "ESPACE & INTERACTION"** </br> [Programme](https://github.com/magisAR9/JE-Espace-et-interaction) </br>
+14 novembre 2025, à Géodata Paris (ex. ENSG). </br>
 9h30-16h30, Campus Descartes, Champs-sur-Marne. </br> 
+
 Une JE soutenue par l'AR9MAGIS, organisée par l'animation scientifique RETICULAR portée par l'Université Gustave Eiffel (Françoise BAHOKEN, Etienne CÔME et Lionel VILLARD) en collaboration avec l'UMR Géographie-cité (Marion MAISONOBE) </br>
 Entrée libre, [sur inscription](https://framaforms.org/journee-detude-espace-interactions-1759841620)
 
-- **Assises 2025 de MAGIS** : 25-27 novembre 2025 à l'Ecole normale supérieure (ENS) de Lyon
-<br />
+- **Assises 2025 de MAGIS** : </br> 25-27 novembre 2025 à l'Ecole normale supérieure (ENS) de Lyon
 
+- **Journée d'Etudes "Géovisualiser les migrations : du tableau à la carte"** </br>
+31 mars - 1er avril 2026 à Grenoble
 
-### 👩‍💻 Webinaires "Cartes Blanches"
+  
+### 👩‍💻 Webinaires "Carte Blanche"
 <hr>
 L'AR9 propose une série de webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 <br/> <br/> 
 
 :arrow_forward:  **Prochaine séance :**
-* 19 novembre 2025 : Lucile Pillot, Ingénieure d'etudes, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _titre à venir_, animation : Fançoise BAHOKEN
-<br/> 
+* Carte blanche #21 - 02 décembre 2025 : **invité.e à (re)préciser**, Présentation de [Cartabl}(https://atlas-bleu.cnrs.fr/presentation-cartabl/), le logiciel de cartographie interactive de L'Atlas Bleu, animation : Boris MERICSKAY
 
 :books: [Page des webinaires Carte Blanche](https://magisar9.github.io/webinaires/).
 
