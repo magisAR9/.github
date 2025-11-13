@@ -21,7 +21,12 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 - **Journée d'Etudes "ESPACE & INTERACTION"** </br> [Programme](https://github.com/magisAR9/JE-Espace-et-interaction) </br>
 14 novembre 2025, à Géodata Paris (ex. ENSG). </br>
-9h30-16h30, Campus Descartes, Champs-sur-Marne. </br> 
+9h30-16h30, Campus Descartes, Champs-sur-Marne. </br>
+
+<img width="101" height="38" alt="image" src="https://github.com/user-attachments/assets/138a5524-3fc7-4f1d-a710-d1da229bea8e" /> </br>
+Lien : https://univ-eiffel.zoom.us/j/85759742821 </br>
+ID de réunion : 857 5974 2821 </br>
+Mot de passe : J2reticule </br>
 
 Une JE soutenue par l'AR9MAGIS, organisée par l'animation scientifique RETICULAR portée par l'Université Gustave Eiffel (Françoise BAHOKEN, Etienne CÔME et Lionel VILLARD) en collaboration avec l'UMR Géographie-cité (Marion MAISONOBE) </br>
 Entrée libre, [sur inscription](https://framaforms.org/journee-detude-espace-interactions-1759841620)
