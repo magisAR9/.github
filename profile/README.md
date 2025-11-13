@@ -31,7 +31,8 @@ Mot de passe : J2reticule </br>
 Une JE soutenue par l'AR9MAGIS, organisée par l'animation scientifique RETICULAR portée par l'Université Gustave Eiffel (Françoise BAHOKEN, Etienne CÔME et Lionel VILLARD) en collaboration avec l'UMR Géographie-cité (Marion MAISONOBE) </br>
 Entrée libre, [sur inscription](https://framaforms.org/journee-detude-espace-interactions-1759841620)
 
-- **Assises 2025 de MAGIS** : </br> 25-27 novembre 2025 à l'Ecole normale supérieure (ENS) de Lyon
+- **Assises 2025 de MAGIS** : </br> 25-27 novembre 2025 à l'Ecole normale supérieure (ENS) de Lyon</br>
+- [Programme](https://docto-magis.sciencesconf.org/resource/page/id/4) des journées scientifiques des mercredi 26 et jeudi 27 novembre
 
 - **Journée d'Etudes "Géovisualiser les migrations : du tableau à la carte"** </br>
 31 mars - 1er avril 2026 à Grenoble
@@ -43,7 +44,7 @@ L'AR9 propose une série de webinaires mensuels sous la forme d'une "Carte blanc
 <br/> <br/> 
 
 :arrow_forward:  **Prochaine séance :**
-* Carte blanche #21 - 02 décembre 2025 : **invité.e à (re)préciser**, Présentation de [Cartabl}(https://atlas-bleu.cnrs.fr/presentation-cartabl/), le logiciel de cartographie interactive de L'Atlas Bleu, animation : Boris MERICSKAY
+* Carte blanche #21 - 02 décembre 2025 : **invité.e à (re)préciser**, Présentation de [Cartabl](https://atlas-bleu.cnrs.fr/presentation-cartabl/), le logiciel de cartographie interactive de L'Atlas Bleu, animation : Boris MERICSKAY
 
 :books: [Page des webinaires Carte Blanche](https://magisar9.github.io/webinaires/).
 
