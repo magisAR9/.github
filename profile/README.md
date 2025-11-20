@@ -19,18 +19,6 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 ### 📆 Actualités de l'AR
 <hr>
 
-- **Journée d'Etudes "ESPACE & INTERACTION"** </br> [Programme](https://github.com/magisAR9/JE-Espace-et-interaction) </br>
-14 novembre 2025, à Géodata Paris (ex. ENSG). </br>
-9h30-16h30, Campus Descartes, Champs-sur-Marne. </br>
-
-<img width="101" height="38" alt="image" src="https://github.com/user-attachments/assets/138a5524-3fc7-4f1d-a710-d1da229bea8e" /> </br>
-Lien : https://univ-eiffel.zoom.us/j/85759742821 </br>
-ID de réunion : 857 5974 2821 </br>
-Mot de passe : J2reticule </br>
-
-Une JE soutenue par l'AR9MAGIS, organisée par l'animation scientifique RETICULAR portée par l'Université Gustave Eiffel (Françoise BAHOKEN, Etienne CÔME et Lionel VILLARD) en collaboration avec l'UMR Géographie-cité (Marion MAISONOBE) </br>
-Entrée libre, [sur inscription](https://framaforms.org/journee-detude-espace-interactions-1759841620)
-
 - **Assises 2025 de MAGIS** : </br> 25-27 novembre 2025 à l'Ecole normale supérieure (ENS) de Lyon</br>
 - [Programme](https://docto-magis.sciencesconf.org/resource/page/id/4) des journées scientifiques des mercredi 26 et jeudi 27 novembre
 
@@ -52,6 +40,7 @@ L'AR9 propose une série de webinaires mensuels sous la forme d'une "Carte blanc
 ### 📚 Journées d'études et sessions de colloques passées
 <hr>
 
+* 14 novembre 2025 (Université Gustave Eiffel) : Journée d'Etudes [**Espace & Interaction**](https://github.com/magisAR9/JE-Espace-et-interaction), à Géodata Paris (ex. ENSG), organisée par l'animation scientifique **RETICULAR** financée par l'Université Gustave Eiffel (Françoise BAHOKEN, Etienne CÔME et Lionel VILLARD) en collaboration avec l'UMR Géographie-cité (Marion MAISONOBE) </br>
 * 21 mai 2025 (Université d'Avignon) : Atelier de l'École thématique méthodologique du CNRS **[Robustesse](https://et-magis2025.sciencesconf.org/)**, organisée par l'AR9 avec l'[AR02 : Information géographique volontaire et crowdsourcing](https://gdr-magis.cnrs.fr/ar02-information-geographique-volontaire-et-crowdsourcing/), l'[AR 06 : Mobilités et impacts socio-environnementaux](https://gdr-magis.cnrs.fr/mobilites-et-impacts-socio-environnementaux/) et l'[AR 012 : Géomatique, Ville, Climat et Pollution](https://gdr-magis.cnrs.fr/ar12-geomatique-ville-climat-et-pollution/), dans le cadre de la **Semaine de l'information géographique** coordonnée par Didier JOSSELIN. 
 * 19-20 mai 2025 (Université d'Avignon) : Cours magistral et Travaux Pratiques de l'AR09 : **[Géovisualiser pour explorer la robustesse des données - Explorer la robustesse des géovisualisations](https://github.com/magisAR9/EcoleMAGIS)**, présentés lors de l'École thématique méthodologique du CNRS **[Robustesse](https://et-magis2025.sciencesconf.org/)**
 * 4 octobre 2024 (Université Gustave Eiffel, Champs-sur-Marne) : Journée d'études de l'AR9 **[Géovisualisations : Interfaces et Interactions](https://magisar9.github.io/JE_Interactions/)**, portée par Étienne CÔME et Robin CURA.
