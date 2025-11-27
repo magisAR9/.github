@@ -11,6 +11,10 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 :arrow_right_hook: [Présentation du bilan 2023](https://docs.google.com/presentation/d/1b98msRwNHuEOHK_aPW6YCSWaDZrtye4qNdRXtIf5Mrs/edit#slide=id.p)
 
+:arrow_right_hook: [Présentation du bilan 2022-2026](https://bit.ly/4ojOjSO)
+
+:arrow_right_hook: [Présentation du lien MAGIS - CNFG via la commission-18 geomatique : 2025-](https://bit.ly/48CI343)
+
 
 **Mots-clés :** Fabriques et usages cartographiques, (géo)visualisation, interaction, information spatiale, sémiologie
 
@@ -19,8 +23,9 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 ### 📆 Actualités de l'AR
 <hr>
 
-- **Assises 2025 de MAGIS** : </br> 25-27 novembre 2025 à l'Ecole normale supérieure (ENS) de Lyon</br>
-- [Programme](https://docto-magis.sciencesconf.org/resource/page/id/4) des journées scientifiques des mercredi 26 et jeudi 27 novembre
+- **Assises 2025 de MAGIS** : </br> 25-27 novembre 2025 à l'Ecole normale supérieure (ENS) de Lyon </br>
+- [Programme](https://docto-magis.sciencesconf.org/resource/page/id/4) des journées scientifiques des mercredi 26 et jeudi 27 novembre </br>
+- [Bilan de l'AR09 2022-2026](https://bit.ly/4ojOjSO)
 
 - **Journée d'Etudes "Géovisualiser les migrations : du tableau à la carte"** </br>
 31 mars - 1er avril 2026 à Grenoble
