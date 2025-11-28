@@ -23,10 +23,6 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 ### 📆 Actualités de l'AR
 <hr>
 
-- **Assises 2025 de MAGIS** : </br> 25-27 novembre 2025 à l'Ecole normale supérieure (ENS) de Lyon </br>
-- [Programme](https://docto-magis.sciencesconf.org/resource/page/id/4) des journées scientifiques des mercredi 26 et jeudi 27 novembre </br>
-- [Bilan de l'AR09 2022-2026](https://bit.ly/4ojOjSO)
-
 - **Journée d'Etudes "Géovisualiser les migrations : du tableau à la carte"** </br>
 31 mars - 1er avril 2026 à Grenoble
 
@@ -37,7 +33,9 @@ L'AR9 propose une série de webinaires mensuels sous la forme d'une "Carte blanc
 <br/> <br/> 
 
 :arrow_forward:  **Prochaine séance :**
-* Carte blanche #21 - 02 décembre 2025 : Présentation de [Cartabl](https://github.com/magisAR9/webinaires/blob/main/WebinaireCARTBL.md), le logiciel de cartographie interactive de L'Atlas Bleu, animation : Boris MERICSKAY
+* Carte blanche #21 - 02 décembre 2025 : Laurent POURINET, Ingénieur d'etudes CNRS, LETG UMR 6554 ; Olivier AUBERT, Maître de Conférences associé à Nantes Université, IR LS2N UMR 6004, **Julie PIERSON***, Ingénieure d'études CNRS, LETG UMR 6554 et Davien BLANC, Ingénieur d'études CNRS, LETG UMR 6554, [_Intégrer de l’interactivité dans vos documents graphiques sans coder avec l'outil Cartabl_](https://github.com/magisAR9/webinaires/blob/main/WebinaireCARTBL.md) - [le logiciel de cartographie interactive de L'Atlas Bleu](https://atlas-bleu.cnrs.fr/presentation-cartabl/), animation : Boris MERICSKAY 
+
+*Julie PIERSON est mise en avant dans l'annonce de ce webinaire, en raison de notre souhait de faire connaître et valoriser le travail des géomaticiennes. 
 
 :books: [Page des webinaires Carte Blanche](https://magisar9.github.io/webinaires/).
 
