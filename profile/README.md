@@ -37,7 +37,7 @@ L'AR9 propose une série de webinaires mensuels sous la forme d'une "Carte blanc
 <br/> <br/> 
 
 :arrow_forward:  **Prochaine séance :**
-* Carte blanche #21 - 02 décembre 2025 : **invité.e à (re)préciser**, Présentation de [Cartabl](https://atlas-bleu.cnrs.fr/presentation-cartabl/), le logiciel de cartographie interactive de L'Atlas Bleu, animation : Boris MERICSKAY
+* Carte blanche #21 - 02 décembre 2025 : Présentation de [Cartabl](https://github.com/magisAR9/webinaires/blob/main/WebinaireCARTBL.md), le logiciel de cartographie interactive de L'Atlas Bleu, animation : Boris MERICSKAY
 
 :books: [Page des webinaires Carte Blanche](https://magisar9.github.io/webinaires/).
 
