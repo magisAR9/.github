@@ -33,9 +33,7 @@ L'AR9 propose une série de webinaires mensuels sous la forme d'une "Carte blanc
 <br/> <br/> 
 
 :arrow_forward:  **Prochaine séance :**
-* Carte blanche #21 - 02 décembre 2025 : Laurent POURINET, Ingénieur d'etudes CNRS, LETG UMR 6554 ; Olivier AUBERT, Maître de Conférences associé à Nantes Université, IR LS2N UMR 6004, **Julie PIERSON***, Ingénieure d'études CNRS, LETG UMR 6554 et Davien BLANC, Ingénieur d'études CNRS, LETG UMR 6554, [_Intégrer de l’interactivité dans vos documents graphiques sans coder avec l'outil Cartabl_](https://github.com/magisAR9/webinaires/blob/main/WebinaireCARTBL.md) - [le logiciel de cartographie interactive de L'Atlas Bleu](https://atlas-bleu.cnrs.fr/presentation-cartabl/), animation : Boris MERICSKAY 
-
-*Julie PIERSON est mise en avant dans l'annonce de ce webinaire, en raison de notre souhait de faire connaître et valoriser le travail des géomaticiennes. 
+* Carte blanche #22 - mercredi 21 janvier 2026 12h30. **Marie-Laure TRÉMÉLO** (Ingénieure d'études, UMR ESPACE) et **Christine ZANIN** (Professeure des Universités, Université Paris-Diderot/Géographie-cités) : *[La sémiologie graphique est-elle obsolète ?](*[MapMorphy, un logiciel de morphométrie géométrique pour les données cartographiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz22-MLT-CZ.md)*.
 
 :books: [Page des webinaires Carte Blanche](https://magisar9.github.io/webinaires/).
 
