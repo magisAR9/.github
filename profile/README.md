@@ -33,7 +33,7 @@ L'AR9 propose une série de webinaires mensuels sous la forme d'une "Carte blanc
 <br/> <br/> 
 
 :arrow_forward:  **Prochaine séance :**
-* Carte blanche #22 - mercredi 21 janvier 2026 12h30. **Marie-Laure TRÉMÉLO** (Ingénieure d'études, UMR ESPACE) et **Christine ZANIN** (Professeure des Universités, Université Paris-Diderot/Géographie-cités) : *[La sémiologie graphique est-elle obsolète ?](*[MapMorphy, un logiciel de morphométrie géométrique pour les données cartographiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz22-MLT-CZ.md)*.
+* Carte blanche #22 - mercredi 21 janvier 2026 12h30. **Marie-Laure TRÉMÉLO** (Ingénieure d'études, UMR ESPACE) et **Christine ZANIN** (Professeure des Universités, Université Paris-Diderot/Géographie-cités) : *[La sémiologie graphique est-elle obsolète ?](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz22-MLT-CZ.md)*.
 
 :books: [Page des webinaires Carte Blanche](https://magisar9.github.io/webinaires/).
 
