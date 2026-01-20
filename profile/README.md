@@ -23,7 +23,7 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 ### 📆 Actualités de l'AR
 <hr>
 
-- **Journée d'Etudes "Géovisualiser les migrations : du tableau à la carte"** </br>
+- **Journée d'Etudes [Géovisualiser les migrations : du tableau à la carte](https://magisar9.github.io/JE-Geovisualisation-des-migrations/)** </br>
 31 mars - 1er avril 2026 à Grenoble
 
   
