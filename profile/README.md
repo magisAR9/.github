@@ -5,15 +5,15 @@
 ### 📋 Projet de l'action de recherche
 <hr>
 
-L'objectif général de cette action de recherche du GDR MAGIS est de fédérer des réflexions et des travaux scientifiques d’origines disciplinaires variées menés autour de la **(carto)graphie contemporaine au sens large et de la (géo)visualisation de données**. Pour ce faire, elle propose d’une part, de mener une veille théorique, méthodologique et technique sur les modalités de la fabrique des cartes et, d’autre part, de fédérer et d’animer une communauté de chercheurs (essentiellement géographes, géomaticiens, cartographes, informaticiens...) lors d’ateliers et de séminaires thématiques et méthodologiques. [Lire le projet.](https://magisar9.github.io/project/)
+L'objectif général de cette action de recherche du GDR MAGIS est de fédérer des réflexions et des travaux scientifiques d’origines disciplinaires variées menés autour de la **(carto)graphie contemporaine au sens large et de la (géo)visualisation de données**. Pour ce faire, elle propose d’une part, de mener une veille théorique, méthodologique et technique sur les modalités de la fabrique des cartes et, d’autre part, de fédérer et d’animer une communauté de chercheurs (essentiellement géographes, géomaticiens, cartographes, informaticiens...) lors d’ateliers et de séminaires thématiques et méthodologiques. <br/>
 
-:arrow_right_hook: [Présentation lors des assises du GdR (2022)](https://docs.google.com/presentation/d/1vMbVFTlbGGtZzkIO2-XujwNUK82SWf_EGzqYgBKjX0E/edit#slide=id.p)
-
-:arrow_right_hook: [Présentation du bilan 2023](https://docs.google.com/presentation/d/1b98msRwNHuEOHK_aPW6YCSWaDZrtye4qNdRXtIf5Mrs/edit#slide=id.p)
-
-:arrow_right_hook: [Présentation du bilan 2022-2026](https://bit.ly/4ojOjSO)
-
-:arrow_right_hook: [Présentation du lien MAGIS - CNFG via la commission-18 geomatique : 2025-](https://bit.ly/48CI343)
+|DATE	| RAPPORT |
+|--------|--------|
+|2021| [Projet de l'AR9magis](https://magisar9.github.io/project/)  | 
+|2022| [Présentation aux assises du GdR](https://docs.google.com/presentation/d/1vMbVFTlbGGtZzkIO2-XujwNUK82SWf_EGzqYgBKjX0E/edit#slide=id.p)  | 
+|2023| [Bilan activités](https://docs.google.com/presentation/d/1b98msRwNHuEOHK_aPW6YCSWaDZrtye4qNdRXtIf5Mrs/edit#slide=id.p)|--------|
+|2025| [Présentation du bilan 2022-2026](https://bit.ly/4ojOjSO) | | 
+|2025| [Présentation du lien MAGIS - CNFG via la commission-18 geomatique : 2025-](https://bit.ly/48CI343)
 
 
 **Mots-clés :** Fabriques et usages cartographiques, (géo)visualisation, interaction, information spatiale, sémiologie
@@ -29,7 +29,7 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
   
 ### 👩‍💻 Webinaires "Carte Blanche"
 <hr>
-L'AR9 propose une série de webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
+L'AR9 propose une série de webinaires mensuels sous la forme d'une **"Carte blanche"**, un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 <br/> <br/> 
 
 :arrow_forward:  **Prochaine séance :**
