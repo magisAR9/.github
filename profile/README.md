@@ -33,7 +33,8 @@ L'AR9 propose une série de webinaires mensuels sous la forme d'une "Carte blanc
 <br/> <br/> 
 
 :arrow_forward:  **Prochaine séance :**
-* Carte blanche #22 - mercredi 21 janvier 2026 12h30. **Marie-Laure TRÉMÉLO** (Ingénieure d'études, UMR ESPACE) et **Christine ZANIN** (Professeure des Universités, Université Paris-Diderot/Géographie-cités) : *[La sémiologie graphique est-elle obsolète ?](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz22-MLT-CZ.md)*.
+* Carte blanche #22 - février 2026 12h30 : **Joëlle THOLLOT**, Professeure des Universités, [_micmap_ : géovisualisation 3D stylisée. Histoire d'une collaboration entre un panoramiste et des chercheurs en informatique](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz23-thollot.md), Grenoble INP, Laboratoire Jean Kuntzmann (CNRS, GINP, inria, UGA), animation : _à venir_ <br/>
+
 
 :books: [Page des webinaires Carte Blanche](https://magisar9.github.io/webinaires/).
 
