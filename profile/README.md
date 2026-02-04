@@ -23,9 +23,12 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 ### 📆 Actualités de l'AR
 <hr>
 
-- **Journée d'Etudes [Géovisualiser les migrations : du tableau à la carte](https://magisar9.github.io/JE-Geovisualisation-des-migrations/)** </br>
+- **Journée d'Etudes [Géovisualiser les migrations : du tableau à la carte](https://magisar9.github.io/JE-Geovisualisation-des-migrations.html/)** </br>
 31 mars - 1er avril 2026 à Grenoble
 
+- **Colloque SAGEO 2026**, à Toulouse </br>
+18-20 novembre 2026  : _Conférence_  
+17 novembre 2026 : _ateliers_
   
 ### 👩‍💻 Webinaires "Carte Blanche"
 <hr>
