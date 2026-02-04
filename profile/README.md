@@ -33,7 +33,7 @@ L'AR9 propose une série de webinaires mensuels sous la forme d'une **"Carte bla
 <br/> <br/> 
 
 :arrow_forward:  **Prochaine séance :**
-* Carte blanche #23 - février 2026 12h30 : **Joëlle THOLLOT**, Professeure des Universités, [_micmap_ : géovisualisation 3D stylisée. Histoire d'une collaboration entre un panoramiste et des chercheurs en informatique](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz23-thollot.md), Grenoble INP, Laboratoire Jean Kuntzmann (CNRS, GINP, inria, UGA), animation : _à venir_ <br/>
+* Carte blanche #23 - février 2026 12h30 : **Joëlle THOLLOT**, Professeure des Universités, [_micmap_ : géovisualisation 3D stylisée. Histoire d'une collaboration entre un panoramiste et des chercheurs en informatique](https://magisar9.github.io/webinaires/cartogeoviz23-thollot.html), Grenoble INP, Laboratoire Jean Kuntzmann (CNRS, GINP, inria, UGA), animation : _à venir_ <br/>
 
 
 :books: [Page des webinaires Carte Blanche](https://magisar9.github.io/webinaires/).
