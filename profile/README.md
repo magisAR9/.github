@@ -39,7 +39,7 @@ L'AR9 propose une série de webinaires mensuels sous la forme d'une **"Carte bla
 
 :arrow_forward:  **Prochaine séance :**
 
-* Carte blanche #24 - 12 mars 2026 : **Ophélie TEMPLIER**, Ingénieure de Recherche - Analyse spatiale, Système d'Information de la Ville Durable et du Bâtiment Innovant [(SI) du PEPR VDBI](https://pepr-vdbi.fr/les-centres-operationnels/co-sivdbi), [_Visualiser les inégalités d'accès aux services par commune_](https://magisar9.github.io/webinaires/cartogeoviz24-templier.html), animation :  _à préciser_. <br/>
+* Carte blanche #25 - 9 avril 2026 : **Fanny DI TURSI**, Docteure en Géographie, Post-doctorante, Laboratoire Informatique de Grenoble,  _[Les arts et les manières de représenter l’espace de l’urgence](https://magisar9.github.io/webinaires/cartogeoviz25-ditursi.html)_, animation :  _à préciser_. <br/>
 
 
 > [Page des webinaires Carte Blanche](https://magisar9.github.io/webinaires/).
