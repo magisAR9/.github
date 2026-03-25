@@ -29,12 +29,13 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 [En savoir plus...](https://magisar9.github.io/JE-Geovisualisation-des-migrations/)
 
 - **Colloque SAGEO 2026**, à Toulouse </br>
-18-20 novembre 2026  : _Conférence_  
+18-20 novembre 2026  : [sageo2026.sciencesconf.org](https://sageo2026.sciencesconf.org/) - [Appel à communications[soumettre une proposition](https://sageo2026.sciencesconf.org/resource/page/id/17)
+
 17 novembre 2026 : _ateliers_
   
 ### 👩‍💻 Webinaires "Carte Blanche"
 <hr>
-L'AR9 propose une série de webinaires mensuels sous la forme d'une **"Carte blanche"**, un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
+L'AR9 propose une série de webinaires mensuels sous la forme d'une Carte blanche, un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 <br/> <br/> 
 
 :arrow_forward:  **Prochaine séance :**
