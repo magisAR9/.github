@@ -29,7 +29,7 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 [En savoir plus...](https://magisar9.github.io/JE-Geovisualisation-des-migrations/)
 
 - **Colloque SAGEO 2026**, à Toulouse </br>
-18-20 novembre 2026  : [sageo2026.sciencesconf.org](https://sageo2026.sciencesconf.org/) - [Appel à communications[soumettre une proposition](https://sageo2026.sciencesconf.org/resource/page/id/17)
+18-20 novembre 2026  : [sageo2026.sciencesconf.org](https://sageo2026.sciencesconf.org/) - Appel à communications : [soumettre une proposition](https://sageo2026.sciencesconf.org/resource/page/id/17) (date limite : 23 avril 2026)
 
 17 novembre 2026 : _ateliers_
   
