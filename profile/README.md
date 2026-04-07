@@ -23,11 +23,6 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 ### 📆 Actualités de l'AR
 <hr>
 
-- **Journée d'Etudes [Géovisualiser les migrations : du tableau à la carte](https://magisar9.github.io/JE-Geovisualisation-des-migrations/)** à l'Université Grenoble Alpes. </br>
-31 mars 2026 > Présentations : théories, concepts, ontologies et approches reproductibles 
-1er avril 2026 > Atelier collectif - [sur inscription](https://survey.appli.univ-poitiers.fr/JE_geoviz_avril2026)
-[En savoir plus...](https://magisar9.github.io/JE-Geovisualisation-des-migrations/)
-
 - **Colloque SAGEO 2026**, à Toulouse </br>
 18-20 novembre 2026  : [sageo2026.sciencesconf.org](https://sageo2026.sciencesconf.org/) - Appel à communications : [soumettre une proposition](https://sageo2026.sciencesconf.org/resource/page/id/17) (date limite : 23 avril 2026)
 
@@ -40,7 +35,7 @@ L'AR9 propose une série de webinaires mensuels sous la forme d'une Carte blanch
 
 :arrow_forward:  **Prochaine séance :**
 
-* Carte blanche #25 - 9 avril 2026 : **Fanny DI TURSI**, Docteure en Géographie, Post-doctorante, Laboratoire Informatique de Grenoble,  _[Les arts et les manières de représenter l’espace de l’urgence](https://magisar9.github.io/webinaires/cartogeoviz25-ditursi.html)_, animation :  _à préciser_. <br/>
+* Carte blanche #25 - 9 avril 2026 : **Fanny DI TURSI**, Docteure en Géographie, Post-doctorante, Laboratoire Informatique de Grenoble,  _[Les arts et les manières de représenter l’espace de l’urgence](https://magisar9.github.io/webinaires/cartogeoviz25-ditursi.html)_, animation :  _à préciser_. 
 
 
 > [Page des webinaires Carte Blanche](https://magisar9.github.io/webinaires/).
@@ -50,7 +45,8 @@ L'AR9 propose une série de webinaires mensuels sous la forme d'une Carte blanch
 ### 📚 Journées d'études et sessions de colloques passées
 <hr>
 
-* 14 novembre 2025 (Université Gustave Eiffel) : Journée d'Etudes [**Espace & Interaction**](https://github.com/magisAR9/JE-Espace-et-interaction), à Géodata Paris (ex. ENSG), organisée par l'animation scientifique **RETICULAR** financée par l'Université Gustave Eiffel (Françoise BAHOKEN, Etienne CÔME et Lionel VILLARD) en collaboration avec l'UMR Géographie-cité (Marion MAISONOBE) et le support de l'AR0 (carto)graphie et (géo)visualisation de données </br>
+* 31 mars et 1er avril 2026 (Université Grenoble Alpes) : Journées d'Etudes **[Géovisualiser les migrations : du tableau à la carte](https://magisar9.github.io/JE-Geovisualisation-des-migrations/)** à la Maison de création et de l’innovation (MaCI), co-organisées par l'UMR 7301 **Migrinter** (Christine PLUMEJEAUD-PERREAU, coord.), l'UMR 5194 Pacte (Raphaël Bres, Camille Cavaliere, Paule-Annick Davoine et Cristina Del Biaggio) et l'AR9magis (carto)graphie et (géo)visualisation de données (Françoise BAHOKEN, Nicolas LAMBERT)
+* 14 novembre 2025 (Université Gustave Eiffel) : Journée d'Etudes [**Espace & Interaction**](https://github.com/magisAR9/JE-Espace-et-interaction), à Géodata Paris (ex. ENSG), organisée par l'animation scientifique **RETICULAR** financée par l'Université Gustave Eiffel (Françoise BAHOKEN, Etienne CÔME et Lionel VILLARD) en collaboration avec l'UMR Géographie-cité (Marion MAISONOBE) et le support de l'AR0 (carto)graphie et (géo)visualisation de données.
 * 21 mai 2025 (Université d'Avignon) : Atelier de l'École thématique méthodologique du CNRS **[Robustesse](https://et-magis2025.sciencesconf.org/)**, organisée par l'AR9 avec l'[AR02 : Information géographique volontaire et crowdsourcing](https://gdr-magis.cnrs.fr/ar02-information-geographique-volontaire-et-crowdsourcing/), l'[AR 06 : Mobilités et impacts socio-environnementaux](https://gdr-magis.cnrs.fr/mobilites-et-impacts-socio-environnementaux/) et l'[AR 012 : Géomatique, Ville, Climat et Pollution](https://gdr-magis.cnrs.fr/ar12-geomatique-ville-climat-et-pollution/), dans le cadre de la **Semaine de l'information géographique** coordonnée par Didier JOSSELIN. 
 * 19-20 mai 2025 (Université d'Avignon) : Cours magistral et Travaux Pratiques de l'AR09 : **[Géovisualiser pour explorer la robustesse des données - Explorer la robustesse des géovisualisations](https://github.com/magisAR9/EcoleMAGIS)**, présentés lors de l'École thématique méthodologique du CNRS **[Robustesse](https://et-magis2025.sciencesconf.org/)**
 * 4 octobre 2024 (Université Gustave Eiffel, Champs-sur-Marne) : Journée d'études de l'AR9 **[Géovisualisations : Interfaces et Interactions](https://magisar9.github.io/JE_Interactions/)**, portée par Étienne CÔME et Robin CURA.
