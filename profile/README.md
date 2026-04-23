@@ -33,10 +33,10 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 L'AR9 propose une série de webinaires mensuels sous la forme d'une Carte blanche, un temps consacré à l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données. 
 <br/> <br/> 
 
-:arrow_forward:  **Prochaine séance :**
+:arrow_forward:  **Prochaines séances :**
 
-* Carte blanche #25 - 9 avril 2026 : **Fanny DI TURSI**, Docteure en Géographie, Post-doctorante, Laboratoire Informatique de Grenoble,  _[Les arts et les manières de représenter l’espace de l’urgence](https://magisar9.github.io/webinaires/cartogeoviz25-ditursi.html)_, animation :  _à préciser_. 
-
+* Carte blanche #26 - 26 mai 2026 : Dalila AMIAR MEFTAH, Architecte, géographe/géomaticienne, conseil et formation SIG open source [GEOMA-SIG](https://geoma-sig.com/), _[IA & optimisation des workflow dans QGIS](webinaires/cartogeoviz26-amiar_meftah.md)_, animation : Robin Cura.
+* Carte blanche #27 : jeudi 25 juin 2026 : **Hélène MATHIAN**, **Claire CUNTY et Camille SCHEFFLER**, Laboratoire [EVS](https://umr5600.cnrs.fr/fr/accueil/) Environnement Ville Société,  _[Ce que les expériences vécues révèlent des lieux : le potentiel analytique des géovisualisations](webinaires/cartogeoviz27-CCHMCS)_, animation :  Anne-Christine Bronner.
 
 > [Page des webinaires Carte Blanche](https://magisar9.github.io/webinaires/).
 
