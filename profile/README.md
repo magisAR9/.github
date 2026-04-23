@@ -36,7 +36,7 @@ L'AR9 propose une série de webinaires mensuels sous la forme d'une Carte blanch
 :arrow_forward:  **Prochaines séances :**
 
 * Carte blanche #26 - 26 mai 2026 : Dalila AMIAR MEFTAH, Architecte, géographe/géomaticienne, conseil et formation SIG open source [GEOMA-SIG](https://geoma-sig.com/), _[IA & optimisation des workflow dans QGIS](https://magisar9.github.io/webinaires/cartogeoviz26-amiar_meftah.html)_, animation : Robin Cura.
-* Carte blanche #27 : jeudi 25 juin 2026 : **Hélène MATHIAN**, **Claire CUNTY et Camille SCHEFFLER**, Laboratoire [EVS](https://umr5600.cnrs.fr/fr/accueil/) Environnement Ville Société,  _[Ce que les expériences vécues révèlent des lieux : le potentiel analytique des géovisualisations](https://magisar9.github.io/webinaires/cartogeoviz27-CCHMCS.html)_, animation :  Anne-Christine Bronner.
+* Carte blanche #27 : jeudi 25 juin 2026 : **Hélène MATHIAN**, **Claire CUNTY et Camille SCHEFFLER**, Laboratoire [EVS](https://umr5600.cnrs.fr/fr/accueil/) Environnement Ville Société,  _[Ce que les expériences vécues révèlent des lieux : le potentiel analytique des géovisualisations](https://magisar9.github.io/webinaires/cartogeoviz27_CCHMCS.html)_, animation :  Anne-Christine Bronner.
 
 > [Page des webinaires Carte Blanche](https://magisar9.github.io/webinaires/).
 
