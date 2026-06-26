@@ -35,7 +35,7 @@ L'AR9 propose une série de webinaires mensuels sous la forme d'une Carte blanch
 
 :arrow_forward:  **Prochaine séance :**
 
-* Carte blanche #27 : jeudi 25 juin 2026 : **Hélène MATHIAN**, **Claire CUNTY et Camille SCHEFFLER**, Laboratoire [EVS](https://umr5600.cnrs.fr/fr/accueil/) Environnement Ville Société,  _[Ce que les expériences vécues révèlent des lieux : le potentiel analytique des géovisualisations](https://magisar9.github.io/webinaires/cartogeoviz27_CCHMCS.html)_, animation :  Anne-Christine Bronner.
+* Carte blanche #28  : 8 juillet 2026 : **Lucile PILLOT**, Ingénieure d'études, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _[Cartographier l'incertitude : l'exemple de l'accessibilité aux services juridiques - CartAJ](https://magisar9.github.io/webinaires/cartogeoviz28-pillot.html)_.
 
 > [Page des webinaires Carte Blanche](https://magisar9.github.io/webinaires/).
 
