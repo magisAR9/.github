@@ -59,7 +59,7 @@ L'AR9 propose une série de webinaires mensuels sous la forme d'une Carte blanch
 
 ### 🌈 Participer à l'AR9magis
 -Ecrivez à [Boris](mailto:boris.mericskay@univ-rennes2.fr) et/ou à [Nicolas](mailto:nicolas.lambert@cnrs.fr) pour participer. </br>
--Inscrivez-vous à la liste de diffusion [cartogeoviz](http://listes.ifsttar.fr/wws/info/cartogeoviz-magis) ou contactez [Françoise](mailto:francoise.bahoken@univ-eiffel.fr) en cas de besoin.
+-Inscrivez-vous à la liste de diffusion [cartogeoviz](https://pub.univ-eiffel.fr/wws/info/cartogeoviz-magis) ou contactez [Françoise](mailto:francoise.bahoken@univ-eiffel.fr) en cas de besoin.
 
 
 <br>
