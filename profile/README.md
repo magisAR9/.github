@@ -12,8 +12,8 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 |2021| [Projet de l'AR9magis](https://magisar9.github.io/project/)  | 
 |2022| [Présentation aux assises du GdR](https://docs.google.com/presentation/d/1vMbVFTlbGGtZzkIO2-XujwNUK82SWf_EGzqYgBKjX0E/edit#slide=id.p)  | 
 |2023| [Bilan activités](https://docs.google.com/presentation/d/1b98msRwNHuEOHK_aPW6YCSWaDZrtye4qNdRXtIf5Mrs/edit#slide=id.p)|--------|
-|2025| [Présentation du bilan 2022-2026](https://bit.ly/4ojOjSO) | | 
-|2025| [Présentation du lien MAGIS - CNFG via la commission-18 geomatique : 2025-](https://bit.ly/48CI343)
+|2025| [Présentation du bilan 2022-2026](https://sharedocs.huma-num.fr/wl/?id=ilmgX4EN5lxL1W91m2MdWTb6Rc6vqgXn) | | 
+|2025| [Présentation du lien MAGIS - CNFG via la commission-18 geomatique : 2025-](https://sharedocs.huma-num.fr/wl/?id=pBb3XbFajTZmld2aj2Blqdan0YwSSSMv))
 
 
 **Mots-clés :** Fabriques et usages cartographiques, (géo)visualisation, interaction, information spatiale, sémiologie
@@ -24,9 +24,11 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 <hr>
 
 - **Colloque SAGEO 2026**, à Toulouse </br>
-17-18-20 novembre 2026  : [sageo2026.sciencesconf.org](https://sageo2026.sciencesconf.org/) - Les inscriptions sont ouvertes - Le programme est mis progressivement en ligne.
+> 18-20 novembre 2026  : Conférence [sageo2026.sciencesconf.org](https://sageo2026.sciencesconf.org/) </br>
+> Les inscriptions sont ouvertes - Le programme est mis progressivement en ligne.
 
-17 novembre 2026 : Le [programmes des ATELIERS](https://sageo2026.sciencesconf.org/resource/page/id/18) est en ligne.
+> 17 novembre 2026 : Ateliers de Sagéo [voir le programme](https://sageo2026.sciencesconf.org/resource/page/id/18) en ligne </br>
+Atelier de l'AR9 > Atelier 5 : **_"Comment représenter l’accessibilité urbaine ?"_**
   
 ### 👩‍💻 Webinaires "Carte Blanche"
 <hr>
