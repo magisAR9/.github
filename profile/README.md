@@ -24,9 +24,9 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 <hr>
 
 - **Colloque SAGEO 2026**, à Toulouse </br>
-18-20 novembre 2026  : [sageo2026.sciencesconf.org](https://sageo2026.sciencesconf.org/) - Appel à communications : [soumettre une proposition](https://sageo2026.sciencesconf.org/resource/page/id/17) (date limite : 23 avril 2026)
+17-18-20 novembre 2026  : [sageo2026.sciencesconf.org](https://sageo2026.sciencesconf.org/) - Les inscriptions sont ouvertes - Le programme est mis progressivement en ligne.
 
-17 novembre 2026 : _ateliers_
+17 novembre 2026 : Le [programmes des ATELIERS](https://sageo2026.sciencesconf.org/resource/page/id/18) est en ligne.
   
 ### 👩‍💻 Webinaires "Carte Blanche"
 <hr>
@@ -35,10 +35,9 @@ L'AR9 propose une série de webinaires mensuels sous la forme d'une Carte blanch
 
 :arrow_forward:  **Prochaine séance :**
 
-* Carte blanche #28  : 8 juillet 2026 : **Lucile PILLOT**, Ingénieure d'études, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _[Cartographier l'incertitude : l'exemple de l'accessibilité aux services juridiques - CartAJ](https://magisar9.github.io/webinaires/cartogeoviz28-pillot.html)_.
+* Carte blanche #29  - jeudi 16 septembre 2026 : Armelle COUILLET, Ingénieure de recherche CNRS, UMR IDEES, Rouen, _“le bac à sable” comme dispositif de géovisualisation de données_
 
 > [Page des webinaires Carte Blanche](https://magisar9.github.io/webinaires/).
-
 
 
 ### 📚 Journées d'études et sessions de colloques passées
