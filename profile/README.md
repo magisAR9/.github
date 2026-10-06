@@ -37,7 +37,7 @@ L'AR9 propose une série de webinaires mensuels sous la forme d'une Carte blanch
 
 :arrow_forward:  **Prochaine séance :**
 
-* Carte blanche #29  - jeudi 17 septembre 2026 : **[Armelle COUILLET](https://umr-idees.fr/annuaire/armelle-couillet?tab=1)**, Ingénieure de recherches CNRS, UMR IDEES, Rouen, [AR-GeoSim : un dispositif de médiation scientifique pour sensibiliser aux transformations environnementales](https://magisar9.github.io/webinaires/cartogeoviz29-couillet.html)
+* Carte blanche #30  - jeudi 15 octobre 2026 : **Suzanne Catteau**, docteure en géographie, géomaticienne, Agence d'attractivité et de développement de Redon (Bretagne), [Échos de la recherche dans la production de cartes et la géovisualisation de données au niveau d’une agglomération rurale](https://magisar9.github.io/webinaires/cartogeoviz30_catteau.html)
 
 > [Page des webinaires Carte Blanche](https://magisar9.github.io/webinaires/).
 
