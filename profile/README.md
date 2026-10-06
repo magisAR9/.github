@@ -25,10 +25,10 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 
 - **Colloque SAGEO 2026**, à Toulouse </br>
 > 18-20 novembre 2026  : Conférence [sageo2026.sciencesconf.org](https://sageo2026.sciencesconf.org/) </br>
-> Les inscriptions sont ouvertes - Le programme est mis progressivement en ligne.
+> Les inscriptions sont ouvertes - Le programme est en ligne.
 
-> 17 novembre 2026 : Ateliers de Sagéo [voir le programme](https://sageo2026.sciencesconf.org/resource/page/id/18) en ligne </br>
-Atelier de l'AR9 > Atelier 5 : **_"Comment représenter l’accessibilité urbaine ?"_**
+> 17 novembre 2026 : **Ateliers de Sagéo** [voir le programme](https://sageo2026.sciencesconf.org/resource/page/id/18) en ligne </br>
+Atelier co-organisé par l'AR9 > Atelier 5 : **_"Comment représenter l’accessibilité urbaine ?"_**
   
 ### 👩‍💻 Webinaires "Carte Blanche"
 <hr>
