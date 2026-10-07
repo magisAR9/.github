@@ -23,12 +23,17 @@ L'objectif général de cette action de recherche du GDR MAGIS est de fédérer 
 ### 📆 Actualités de l'AR
 <hr>
 
+**Journée d'études RETICULAR** à Champs-sur-Marne </br>
+> 18-20 novembre 2026 : [_Les data d'Ormuz_](https://magisar9.github.io/JE-Ormuz.html) </br>
+organisé à l'Université Gustave Eiffel/LISIS
+ </br> Accès libre, [inscription obligatoire](https://framaforms.org/journee-detude-ormuz-les-data-du-detroit-1789551958)
+
 - **Colloque SAGEO 2026**, à Toulouse </br>
 > 18-20 novembre 2026  : Conférence [sageo2026.sciencesconf.org](https://sageo2026.sciencesconf.org/) </br>
 > Les inscriptions sont ouvertes - Le programme est en ligne.
 
 > 17 novembre 2026 : **Ateliers de Sagéo** [voir le programme](https://sageo2026.sciencesconf.org/resource/page/id/18) en ligne </br>
-Atelier co-organisé par l'AR9 > Atelier 5 : **_"Comment représenter l’accessibilité urbaine ?"_**
+Atelier co-organisé par GeoData Paris et l'AR9 > Atelier 5 : **_"Comment représenter l’accessibilité urbaine ?"_**
   
 ### 👩‍💻 Webinaires "Carte Blanche"
 <hr>
